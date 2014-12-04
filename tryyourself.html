@@ -1,0 +1,326 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
+       'version':'1','packages':['timeline', 'wordtree']}]}"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/our_style.css">
+    
+    <script type="text/javascript" src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="scripts/script2.js"></script>
+    <script src="scripts/jquery-2.1.1.min.js"></script>
+    <script src="scripts/jquery.bpopup.min.js"></script>
+    <script type="text/javascript" src="scripts/googlecharts.js"></script>
+
+    <noscript>
+      <link rel="stylesheet" href="css/skel.css" />
+      <link rel="stylesheet" href="css/style.css" />
+      <link rel="stylesheet" href="css/style-wide.css" />
+      <link rel="stylesheet" href="css/style-noscript.css" />
+    </noscript>
+
+    <script type="text/javascript">
+          // google.setOnLoadCallback(drawWordTree);
+
+          function drawWordTree() {
+            var treeData = new google.visualization.DataTable();
+
+            treeData.addColumn('string', 'phrase');
+
+            for(var i = 0; i < compareResultsUser.length; i++){
+              for(var k = 0; k < compareResultsUser[i][1].length; k++){
+                  var j = i+1;
+                  treeData.addRow(['You ' + 'Person:' + j + ' - ' + compareResultsUser[i][0] + ' ' + compareResultsUser[i][1][k]['domain']]);
+              }
+            }
+
+            // treeData.addRows([
+            //     ['// Set1 '],
+            //     ['// Set2 '],
+            //     ['// Set3 '],
+            //     ['// Set4 '],
+            //     ['// Set5 '],
+            //   ]);
+
+            var options = {
+              wordtree: {
+                format: 'implicit'
+                ,word: 'You'
+              }
+            };
+
+            var chart = new google.visualization.WordTree(document.getElementById('wordtree_basic'));
+            chart.draw(treeData, options);
+
+            google.visualization.events.addListener(chart, 'select', getSelectedLink);
+
+            function getSelectedLink(e) {
+              // selection = chart.getSelection();
+              // value = dataTable.getValue(selection[0]['row'], 1);
+              // console.log(value);
+              //part2
+            }
+          }
+        </script>
+
+        <script type="text/javascript">
+          var reader = new FileReader();
+
+          window.onload = function() {
+              var fileInput = document.getElementById('fileInput');
+              var fileDisplayArea = document.getElementById('fileDisplayArea');
+
+              fileInput.addEventListener('change', function(e) {
+                var file = fileInput.files[0];
+                var textType = /text.*/;
+
+                var tmppath = URL.createObjectURL(fileInput.files[0]);
+
+                // if (file.type.match(textType)) {
+                  var reader = new FileReader();
+
+                  reader.onload = function(e) {
+                    // fileDisplayArea.innerText = reader.result;
+                    $('#upload').css('display', 'none');
+                    $('#restart').css('display', 'inline');
+                    $('#visualization').css('display', 'inline');
+                    loadBookmark(tmppath);
+                  }
+
+                  reader.readAsText(file);  
+                // } else {
+                //   window.alert("Invalid file type");
+                // }
+              });
+          }
+        </script>
+
+        <script type="text/javascript">
+
+        var dataTable = new google.visualization.DataTable();
+        var row_quant = 0;
+        // google.setOnLoadCallback(init);
+        
+        function init(){
+
+          dataTable.addColumn({ type: 'string', id: 'Term' });
+          dataTable.addColumn({ type: 'string', id: 'Name' });
+          dataTable.addColumn({ type: 'date', id: 'Start' });
+          dataTable.addColumn({ type: 'date', id: 'End' });
+          dataTable.addColumn({ type: 'string', role: 'tooltip', 'p': {'html': true} });
+          dataTable.addColumn({ type: 'number', role: 'tooltip', 'p': {'html': true} });
+          dataTable.addColumn({ type: 'number', role: 'tooltip', 'p': {'html': true} });
+
+          /* Data format for the rows:
+            Rank, domain, start date (first day of month), end date (last day of month), number of bookmarks */
+            for(var countMonth = 0; countMonth < 12; countMonth++){
+              for(var countRank = 0; countRank < 5; countRank++){
+                countMonth = parseInt(countMonth, 10);
+                countRank = parseInt(countRank, 10);
+
+                if(rankings[countMonth].length > countRank){
+                var domain = rankings[parseInt(countMonth, 10)][parseInt(countRank, 10)]['domain'];
+                var count = rankings[countMonth][countRank]['count'];
+                var firstDay = rankings[countMonth][countRank]['firstDay_day'];
+                var lastDay = rankings[countMonth][countRank]['lastDay_day'];
+                var rank = parseInt(countRank) + parseInt(1);
+
+
+                dataTable.addRow(['#' + rank, domain, new Date(0, countMonth, firstDay), new Date(0, countMonth, lastDay), count.toString(), countMonth, countRank]);
+                row_quant++;
+              }
+              else {
+                var domain = "";
+                var count = 0;
+                var firstDay = 1;
+                var lastDay = 28;
+                var rank = parseInt(countRank) + parseInt(1);
+
+                dataTable.addRow(['#' + rank, domain, new Date(0, countMonth, firstDay), new Date(0, countMonth, lastDay), count.toString(), countMonth, countRank]);
+                row_quant++;
+              }
+              }
+            }
+          drawChart();
+        }
+
+        function drawChart() {
+
+          var container = document.getElementById('timeline_chart');
+          var chart = new google.visualization.Timeline(container);
+
+          var options = { 
+            tooltip: {isHtml: true},
+            timeline: { 
+              rowLabelStyle: {
+                fontName: 'Lato', 
+                fontSize: 14, 
+                color: '#404040' },
+              barLabelStyle: { 
+                fontName: 'Lato', 
+                fontSize: 14 } 
+              }, 
+              columnLabelStyle: {
+                fontName: 'Lato', 
+                fontSize: 14, 
+                color: '#fff' },
+            };
+
+          google.visualization.events.addListener(chart, 'ready', chartReady);
+          chart.draw(dataTable, options);
+
+          google.visualization.events.addListener(chart, 'select', getSelectedDomain);
+          google.visualization.events.addListener(chart, 'onmouseover', hoverListener);
+          google.visualization.events.addListener(chart, 'onmouseout', mouseOutListener);
+
+
+          function getSelectedDomain(e) {
+            $('#links_popup').empty();
+            selection = chart.getSelection();
+            domain = dataTable.getValue(selection[0]['row'], 1);
+            if(domain !== ""){
+              month = dataTable.getValue(selection[0]['row'], 5);
+              rank = dataTable.getValue(selection[0]['row'], 6);
+              console.log(domain + " month: " + month + " rank: " + rank);
+
+              var urls = rankings[month][rank]['urls'];
+
+              $('#links_popup').append("<h3 class=\"center\">" + domain + "</h3><br>");
+
+              for(var urlCount = 0; urlCount < urls.length; urlCount++){
+                var name = urls[urlCount]['name'];
+                var url = urls[urlCount]['url'];
+                // console.log(name + " " + url);
+                $('#links_popup').append("<a href=\"" + url + "\" target=\"_blank\">" + name + "</a><br>");
+
+              }
+              $('#links_popup').bPopup();
+            }
+          }
+
+
+          function hoverListener(e){
+            if(e.row != null){
+                name = dataTable.getValue(e.row, 1);
+                bookmarks = dataTable.getValue(e.row, 4);
+                $(".google-visualization-tooltip").css("display", "none");
+                $("#bookmark_details").text(name + ": " + bookmarks + " bookmarks");
+            }        
+          }
+
+          function mouseOutListener(e){
+            $("#bookmark_details").html("&nbsp");         
+          }
+
+          function chartReady(){
+            $('text').each(function(){
+              if($(this).text() === " 1900")
+                $(this).text("");
+            });
+          }
+        }
+        </script>
+
+        <script type="text/javascript">
+          $(document).ready(function() {
+            $('#add-domain').on('click', function(){
+              var domain = $('#domain-input').val();
+              if(domain !== ""){
+                $('#domain-filter').append("<div><button class=\"remove-item\" title=\"Remove this item\">X</button> <span class=\"remove-domain\">" + domain + "</span></div>");
+                $('#domain-input').val("");
+                $('.remove-item').on('click', function(){
+                  $(this).parent().remove();
+                });
+              }
+            });
+            $('#apply-filter').on('click', function(){
+              removeDomains();
+            });
+          });
+
+          function removeDomains(){
+
+            dataTable.removeRows(0, row_quant);
+
+            row_quant = 0;
+            var domains_filter = [];
+
+            $('.remove-domain').each(function(){
+              domains_filter.push($(this).text());
+            });
+
+            console.log("filter: " + domains_filter);
+
+            for(var countMonth = 0; countMonth < 12; countMonth++){
+
+              var valid_domains = 0;
+              var test_domain = 0;
+
+              while(valid_domains !== 5){
+
+                if(rankings[parseInt(countMonth)].length > parseInt(test_domain)){
+                  var domain = rankings[parseInt(countMonth)][parseInt(test_domain)]['domain'];
+                  var count = rankings[countMonth][test_domain]['count'];
+                  var firstDay = rankings[countMonth][test_domain]['firstDay_day'];
+                  var lastDay = rankings[countMonth][test_domain]['lastDay_day'];
+                }
+                else{
+                  var domain = "";
+                  var count = 0;
+                  var firstDay = 1;
+                  var lastDay = 28;
+                }
+                if(domains_filter.indexOf(domain) <= -1){
+
+                  valid_domains++;
+                  var rank = valid_domains;
+
+                  dataTable.addRow(['#' + rank, domain, new Date(0, countMonth, firstDay), new Date(0, countMonth, lastDay), count.toString(), countMonth, test_domain]);
+
+                  row_quant++;
+                }else{
+                  console.log("removing " + domain);
+                }
+
+                test_domain++;
+              }
+            }
+            drawChart();
+          }
+        </script>
+
+  </head>
+
+  <body>
+    <div id="nav-bar">
+      <button onclick="window.location.href='index.html'">HOME</button>
+      <button onclick="window.location.href='tryyourself.html'" id="restart">RESTART</button>
+    </div>
+    <div id="upload" class="center">
+      <h2 class="center" id="title">Upload your bookmarks file</h2>
+      <p class="center">*We will not keep your Data! :)</p>
+      <!-- <div class="center"><input class="center" type="file" id="fileInput"></div><br> -->
+      <div class="center file_button_container"><input type="file" class="center" id="fileInput"/></div>
+    </div>
+    <div id="visualization">
+      <h2 class="center" id="title">Your bookmark ranking</h2>
+      <div id="timeline_chart" style="width: 1200px; height: 300px;"></div>
+      <div id="bookmark_details" class="center">&nbsp</div>
+      <div id="filters">
+        <h3>Filter</h3>
+        <input type="text" id="domain-input"><br>
+        <button id="add-domain">Add</button>
+        <button id="apply-filter">Apply</button>
+        <list id="domain-filter">
+        </list>
+      </div>
+      <br><hr>
+      <div id="link_list"></div>
+      <div id="links_popup">
+      </div>
+      <h2 class="center" id="title">Bookmarks you have in common with our database</h2>
+      <div id="wordtree_basic" style="width: 900px; height: 900px;"></div>
+    </div>
+    <div id="bookmarkHtml" style="display: none;"></div>
+  </body>
+</html>

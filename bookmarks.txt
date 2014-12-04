@@ -1,0 +1,993 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<!-- This is an automatically generated file.
+     It will be read and overwritten.
+     DO NOT EDIT! -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
+<DL><p>
+    <DT><A HREF="http://www.wmata.com/rider_tools/nextbus/arrivals.cfm" ADD_DATE="1416693977" ICON="">Metro - Bus - Next Metrobus Arrivals</A>
+    <DT><A HREF="http://www.forbes.com/fdc/welcome_mjx_mobile.html" ADD_DATE="1412732335" ICON="">Welcome to Forbes</A>
+    <DT><A HREF="https://www.google.com.br/search?q=self+learning+switch+table&oq=self+learning+table&aqs=chrome.2.69i57j0l2.17761j0j4&client=ms-android-motorola&sourceid=chrome-mobile&espv=1&ie=UTF-8" ADD_DATE="1405430825" ICON="">self learning switch table - Pesquisa Google</A>
+    <DT><A HREF="http://www.quemperturba.com.br/mobile.asp?n=" ADD_DATE="1405423924" ICON="">Quem Perturba? Telefone</A>
+    <DT><A HREF="http://www.boredpanda.com/honest-notes-from-kids/" ADD_DATE="1404516759" ICON="">40 Hilariously Honest Notes From Kids | Bored Panda</A>
+    <DT><A HREF="https://www.zlauncher.com/download.html?token=ya29.LgA9De0HEbOb8R8AAACl9B8qmVkdg4QtfLxaqg66W8h_iIkJdXY9rRRvMG3wpg" ADD_DATE="1403195752" ICON="">Z Launcher - Download <sup>Limited Pre-Beta Release</sup></A>
+    <DT><A HREF="http://mobile.theverge.com/2014/4/16/5620300/facebooks-friend-problem" ADD_DATE="1397711497" ICON="">Facebook's friend problem | The Verge</A>
+    <DT><A HREF="http://www.browsersupport.net/CSS/width%3A-moz-fit-content" ADD_DATE="1397676966" ICON="">width:-moz-fit-content (CSS) — Browser Support</A>
+    <DT><A HREF="http://www.buzzfeed.com/azafar/13-things-you-didnt-know-you-could-do-on-spotify?utm_campaign=socialflow&utm_source=twitter&utm_medium=social&s=mobile" ADD_DATE="1397152597" ICON="">13 Things You Didn't Know You Could Do On Spotify</A>
+    <DT><A HREF="http://www.clipmenu.com/" ADD_DATE="1396249500" ICON="">ClipMenu: A clipboard manager for Mac OS X - ClipMenu.com</A>
+    <DT><A HREF="http://www.digai.com.br/2013/12/as-10-melhores-acoes-de-sac-2-0-de-2013/" ADD_DATE="1389290774" ICON="">As 10 melhores ações de SAC 2.0 de 2013 | Digaí</A>
+    <DT><A HREF="http://palhaiz.deviantart.com/art/Android-4-1-Jelly-Bean-Icon-Set-311741892" ADD_DATE="1382503638" ICON="">Android 4.1 Jelly Bean Icon Set by ~palhaiz on deviantART</A>
+    <DT><A HREF="http://www.moodle.ufscar.br/" ADD_DATE="1362074031" ICON="">Moodle</A>
+    <DT><A HREF="http://www.urbes.com.br/" ADD_DATE="1364732094" ICON="">Urbes</A>
+    <DT><H3 ADD_DATE="1407978963" LAST_MODIFIED="1417473088">Bookmarks Bar</H3>
+    <DL><p>
+        <DT><A HREF="https://mail.google.com/mail/u/0/?shva=1#inbox" ADD_DATE="1339343492" ICON="">Gmail</A>
+        <DT><A HREF="https://www.facebook.com/" ADD_DATE="1382501717" ICON="">Facebook</A>
+        <DT><A HREF="http://twitter.com/" ADD_DATE="1334450594" ICON="">Twitter</A>
+        <DT><A HREF="https://www.dropbox.com/home" ADD_DATE="1408591412" ICON="">Dropbox</A>
+        <DT><A HREF="https://drive.google.com/#my-drive" ADD_DATE="1414036077" ICON="">Drive</A>
+        <DT><A HREF="https://play.spotify.com/?utm_source=web-player&utm_campaign=bookmark" ADD_DATE="1379535499" ICON="">Spotify</A>
+        <DT><A HREF="http://www.youtube.com/" ADD_DATE="1334450604" ICON="">YouTube</A>
+        <DT><A HREF="http://movies.netflix.com/WiHome" ADD_DATE="1350343601" ICON="">Netflix</A>
+        <DT><A HREF="http://www.bradesco.com.br/" ADD_DATE="1334450871" ICON="">Bradesco</A>
+        <DT><A HREF="http://tecnoblog.net/" ADD_DATE="1334450897" ICON="">Tecnoblog</A>
+        <DT><A HREF="http://iie.org/Programs/Brazil-Scientific-Mobility/Current-Students/Materials" ADD_DATE="1393436863" ICON="">BSMP</A>
+        <DT><A HREF="https://apps.uillinois.edu/selfservice/index.html" ADD_DATE="1408672634" ICON="">Enterprise</A>
+        <DT><A HREF="https://compass2g.illinois.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1" ADD_DATE="1409197382" ICON="">Compass</A>
+        <DT><A HREF="https://piazza.com/class/hz94n1isnng3l7" ADD_DATE="1409281318" ICON="">Piazza</A>
+        <DT><A HREF="chrome://extensions/" ADD_DATE="1390277199" ICON=""></A>
+        <DT><A HREF="chrome://bookmarks/" ADD_DATE="1414648529" ICON=""></A>
+        <DT><A HREF="https://mycusthelp.info/IIE/_cs/Login.aspx?sSessionID=&target=%2fIIE%2f_cs%2fsupporthome.aspx%3fsSessionID%3d" ADD_DATE="1396326114" ICON="">Grantee</A>
+        <DT><A HREF="https://eventos.ingresso.com/hotsite/historico/default.asp?paCodIdioma=1&pacodEspetaculo=00013733" ADD_DATE="1416338350" ICON="">Rock in Rio 2015 - Venda Card - Rio de Janeiro</A>
+        <DT><A HREF="http://bitfountain.io/course/the-complete-ios-7-course-learn-by-building-14-apps" ADD_DATE="1409197422" ICON="">iOS Course</A>
+        <DT><A HREF="https://domains.google.com/about//" ADD_DATE="1403586478" ICON="">Google Domains</A>
+        <DT><A HREF="http://arstechnica.com/gadgets/2014/06/building-android-a-40000-word-history-of-googles-mobile-os/" ADD_DATE="1402888520" ICON="">The history of Android: The endless iterations of Google’s mobile OS | Ars Technica</A>
+        <DT><A HREF="chrome://apps/" ADD_DATE="1382306353" ICON=""></A>
+        <DT><A HREF="http://www.cienciasemfronteiras.gov.br/web/csf/estados-unidos2" ADD_DATE="1371597533" ICON="">CSF</A>
+        <DT><A HREF="http://www.codecademy.com/pt/tracks/htmlcss" ADD_DATE="1367890706" ICON="">HTML & CSS</A>
+        <DT><A HREF="http://netflixusacompletelist.blogspot.com.br/2013/10/alphabetical-list-12-pm-wed-oct-30-2013.html" ADD_DATE="1383170983" ICON="">Netflix USA: Complete Instant Streaming List of all Movies and TV Shows: Alphabetical List (12 pm) - Wed, Oct 30, 2013</A>
+        <DT><A HREF="https://www.pitzi.com.br/conta/ajustar" ADD_DATE="1393649703" ICON="">Proteção de celulares contra acidente | Pitzi</A>
+        <DT><A HREF="http://tableless.com.br/design-de-aplicativos-para-android-parte-1/" ADD_DATE="1394566751" ICON="">Design de Aplicativos para Android – Parte 1 | Tableless</A>
+        <DT><A HREF="http://judao.com.br/o-castelo-de-cartas-atinge-o-topo-em-house-of-cards/" ADD_DATE="1394567394" ICON="">O ápice de House of Cards na segunda temporada. Bam! Bam! | JUDÃO</A>
+        <DT><A HREF="https://www.commonapp.org/Login" ADD_DATE="1378438081" ICON="">CA4</A>
+        <DT><A HREF="http://www.wired.com/" ADD_DATE="1383763894" ICON="">Wired</A>
+        <DT><A HREF="http://en.wiktionary.org/wiki/Wiktionary:Main_Page" ADD_DATE="1334450925" ICON="">Wiktionary</A>
+        <DT><A HREF="http://www.karaokeparty.com/" ADD_DATE="1346646857" ICON="">Karaoke Party</A>
+        <DT><A HREF="http://simpledesktops.com/" ADD_DATE="1362106270" ICON="">Simple Desktops</A>
+        <DT><A HREF="http://www.microsoft.com/brasil/educacao/comunidadeacademica/estudantes/s2b.mspx" ADD_DATE="1362160992" ICON="">Microsoft S2B</A>
+        <DT><A HREF="http://www.archdaily.com.br/" ADD_DATE="1362714896" ICON="">ArchDaily Brasil</A>
+        <DT><A HREF="http://thenewboston.org/list.php?cat=31" ADD_DATE="1365731985" ICON="">List of Videos for Java</A>
+        <DT><A HREF="http://android.appstorm.net/roundups/developer/15-apps-for-programming-on-android/" ADD_DATE="1369299507" ICON="">15 Apps for Programming on Android | Android.AppStorm</A>
+        <DT><A HREF="http://www.4shared.com/android/Yn18DpBi/UberMusic_v101.htm" ADD_DATE="1371129871" ICON="">UberMusic v.1.0.1 - Download - 4shared</A>
+        <DT><A HREF="http://computacaosemfronteiras.wordpress.com/" ADD_DATE="1382700939" ICON="">Computação Sem Fronteiras | Blog pessoal de um Estudante de Ciência da Computação, que conta suas experiencias no programa Ciência sem Fronteiras do Governo Brasileiro</A>
+        <DT><A HREF="http://nacaodamusica.terra.com.br/br/shows/lollapalooza-brasil-2014-programacao-por-dia/" ADD_DATE="1391064638" ICON="">Confira a programação por dia do Lollapalooza Brasil 2014; Ingressos começam a ser vendidos | Nação da Música</A>
+        <DT><A HREF="http://www.dell.com/us/p/inspiron-15-7537/pd?oc=dncwb566h&model_id=inspiron-15-7537" ADD_DATE="1382811668" ICON="">New Inspiron 15 7000 Series Touch Screen Laptop Details | Dell</A>
+        <DT><A HREF="https://www.google.com.br/search?q=google+now+font&oq=google+now+font&aqs=chrome..69i57&sourceid=chrome-mobile&espv=1&ie=UTF-8" ADD_DATE="1383580817" ICON="">google now font - Pesquisa Google</A>
+        <DT><A HREF="http://www.howtogeek.com/128087/" ADD_DATE="1386311919" ICON="">How To Run Chrome OS in VirtualBox and Try Out Chrome OS Before Buying a Chromebook</A>
+        <DT><A HREF="http://skllzd.blogspot.com.br/2013/11/16-truques-absurdamente-simples-para-o.html" ADD_DATE="1384283581" ICON="">Skllzd: 16 truques absurdamente simples para o dia a dia</A>
+        <DT><A HREF="http://publichd.se/index.php" ADD_DATE="1385863801" ICON="">PublicHD Torrents</A>
+        <DT><A HREF="http://gizmodo.uol.com.br/voce-sabe-usar-o-seu-kindle-de-verdade/" ADD_DATE="1386901790" ICON="">15 truques para você usar (de verdade) seu Kindle | Gizmodo</A>
+        <DT><A HREF="http://tecnoblog.net/119974/tecnoblog-podcast-032/" ADD_DATE="1387308858" ICON="">Tecnoblog Podcast 32 - E-books no Brasil | Tecnoblog</A>
+        <DT><A HREF="http://torrent-serie.blogspot.com.br/2013/07/under-dome.html#.UrEj_tJDvNw" ADD_DATE="1387340805" ICON="">Séries Torrent: Under The Dome</A>
+        <DT><A HREF="http://estudantesemfronteiras.com/" ADD_DATE="1388033681" ICON="">Estudantes sem Fronteiras | Estudantes sem Fronteiras</A>
+        <DT><A HREF="http://www.filmesonline2.com/" ADD_DATE="1389674193" ICON="">Filmes Online 2 – Assistir Filmes Online Em Full HD 1080p – HD 720p</A>
+        <DT><A HREF="http://www.androidcentral.com/solving-impossible-problem-android-updates" ADD_DATE="1390090420" ICON="">Solving the impossible problem of Android updates | Android Central</A>
+        <DT><A HREF="http://www.theverge.com/2014/1/21/5307992/inside-the-mind-of-a-fanboy" ADD_DATE="1393004490" ICON="">Fanboys | The Verge</A>
+        <DT><A HREF="https://www.youtube.com/watch?v=mzw0wEcsfxE" ADD_DATE="1393803644" ICON="">The Double - Official Trailer - YouTube</A>
+        <DT><A HREF="https://my.engr.illinois.edu/" ADD_DATE="1405051306" ICON="">My.ENGR Portal - U of I</A>
+        <DT><H3 ADD_DATE="1409200411" LAST_MODIFIED="1417473088">UIUC</H3>
+        <DL><p>
+            <DT><A HREF="http://stackoverflow.com/questions/2577305/how-to-get-gps-location-from-the-web-browser" ADD_DATE="1414301992" ICON="">How to Get GPS location from the web browser - Stack Overflow</A>
+            <DT><A HREF="http://flatuicolors.com/" ADD_DATE="1409619445" ICON="">Flat UI Colors</A>
+            <DT><A HREF="http://www.acm.uiuc.edu/calendar/2014/9/1#index" ADD_DATE="1409339561" ICON="">ACM @ UIUC</A>
+            <DT><A HREF="http://www.nymoorehostel.com/" ADD_DATE="1409622943" ICON="">New York Moore Hostel</A>
+            <DT><A HREF="http://social.cs.uiuc.edu/class/cs467/syllabus.html" ADD_DATE="1409628704" ICON="">CS467 KGK - Social Visualization - Social Computing</A>
+            <DT><A HREF="https://www.peerstudio.org/courses/6" ADD_DATE="1409628714" ICON="">Peerstudio | Social Visualization (CS 467)</A>
+            <DT><A HREF="http://www.dsvolition.com/careers/temporary-qa-tester/" ADD_DATE="1409673998" ICON="">Temporary QA Tester – Deep Silver Volition</A>
+            <DT><A HREF="http://uiuccalendar.appspot.com/" ADD_DATE="1409713915" ICON="">UIUC Calendar Converter</A>
+            <DT><A HREF="http://organicgardening.about.com/od/compost/a/cancomposter.htm" ADD_DATE="1409803369" ICON="">How to Make a Trash Can Composter Bin</A>
+            <DT><A HREF="http://www2.ca.uky.edu/enri/pubs/enri311.pdf" ADD_DATE="1409803374" ICON="">www2.ca.uky.edu/enri/pubs/enri311.pdf</A>
+            <DT><A HREF="https://www.google.com/search?q=caqui+pants&oq=caqui+pants&aqs=chrome..69i57.3181j0j1&sourceid=chrome&es_sm=119&ie=UTF-8#q=khaki+pants" ADD_DATE="1409808653" ICON="">khaki pants - Pesquisa Google</A>
+            <DT><A HREF="http://pt.wikihow.com/Usar-o-Estilo-Business-Casual" ADD_DATE="1409808838" ICON="">3 Formas de Usar o Estilo Business Casual - wikiHow</A>
+            <DT><A HREF="https://wiki.cites.illinois.edu/wiki/display/cs242fa14/Subversion+Tutorial" ADD_DATE="1409872399" ICON="">Subversion Tutorial - CS 242 FA14 - CITES Wiki</A>
+            <DT><A HREF="http://code.tutsplus.com/tutorials/sublime-text-2-tips-and-tricks--net-21519" ADD_DATE="1409928838" ICON="">Sublime Text 2 Tips and Tricks (Updated) - Tuts+ Code Tutorial</A>
+            <DT><A HREF="https://www.google.com/search?q=sublime+svn&oq=sublime+svn&aqs=chrome..69i57.2463j0j4&sourceid=chrome&es_sm=119&ie=UTF-8" ADD_DATE="1409928842" ICON="">sublime svn - Pesquisa Google</A>
+            <DT><A HREF="https://developers.facebook.com/tools/explorer/145634995501895/?method=GET&path=me%2Foutbox&version=v2.1" ADD_DATE="1410279332" ICON="">Facebook Graph API Explorer</A>
+            <DT><A HREF="http://stackoverflow.com/questions/16290629/facebook-graph-api-to-retrieve-messsages-sent-to-from-a-friend" ADD_DATE="1410279449" ICON="">Facebook graph API to retrieve messsages sent to/from a friend - Stack Overflow</A>
+            <DT><A HREF="https://developers.facebook.com/docs/graph-api/reference/v2.1/thread" ADD_DATE="1410281311" ICON="">Graph API Reference Thread /thread</A>
+            <DT><A HREF="http://www.glassdoor.com/index.htm" ADD_DATE="1410296278" ICON="">Glassdoor – Get Hired. Love Your Job.</A>
+            <DT><A HREF="http://hire.jobvite.com/CompanyJobs/Careers.aspx?nl=1&k=Job&j=oTx8Yfwg&s=Campus_Event" ADD_DATE="1410296828" ICON="">Careers - twitter</A>
+            <DT><A HREF="http://moz.com/blog/10-tools-for-creating-infographics-visualizations" ADD_DATE="1410306714" ICON="">10 Tools for Creating Infographics and Visualizations - Moz</A>
+            <DT><A HREF="http://stackoverflow.com/questions/12400522/grabbing-facebook-life-events" ADD_DATE="1410357480" ICON="">Grabbing Facebook life events - Stack Overflow</A>
+            <DT><A HREF="http://www.codeproject.com/Articles/646113/Chesslings" ADD_DATE="1410381576" ICON="">Chesslings - CodeProject</A>
+            <DT><A HREF="http://www.codeproject.com/Articles/36112/Chess-Program-in-C" ADD_DATE="1410381596" ICON="">Chess Program in C# - CodeProject</A>
+            <DT><A HREF="http://careers.microsoft.com/careers/en/us/collegehome.aspx" ADD_DATE="1410567319" ICON="">Microsoft University Careers</A>
+            <DT><A HREF="http://www.lastfm.com.br/api/account/create" ADD_DATE="1410571979" ICON="">Get an API Account – Last.fm</A>
+            <DT><A HREF="https://developer.spotify.com/technologies/spotify-android-sdk/tutorial/" ADD_DATE="1410572463" ICON="">Spotify Android SDK Tutorial | Developer</A>
+            <DT><A HREF="https://developers.facebook.com/docs/graph-api/reference/v2.1/page" ADD_DATE="1410572796" ICON="">Graph API Reference Page /page</A>
+            <DT><A HREF="https://dev.twitter.com/rest/reference/get/users/search" ADD_DATE="1410573429" ICON="">GET users / search | Home</A>
+            <DT><A HREF="https://dev.twitter.com/rest/tools/console" ADD_DATE="1410573518" ICON="">Exploring the Twitter API | Twitter Developers</A>
+            <DT><A HREF="http://d3js.org/" ADD_DATE="1410581844" ICON="">D3.js - Data-Driven Documents</A>
+            <DT><A HREF="https://www.nc.me/" ADD_DATE="1410581914" ICON="">Namecheap Education Program: Free Domains for Students</A>
+            <DT><A HREF="http://www.homefieldenergy.com/residential/municipal-aggregation/faq-residential-municipal.php" ADD_DATE="1410589992" ICON="">HOMEFIELD ENERGY Municipal Aggregation FAQ</A>
+            <DT><A HREF="http://www.ameren.com/sites/aiu/ElectricChoice/Pages/Home.aspx" ADD_DATE="1410590415" ICON="">Electric Choice Home | Ameren Illinois</A>
+            <DT><A HREF="http://www.ameren.com/sites/aiu/MyHome/Pages/ChoiceVideos.aspx" ADD_DATE="1410590693" ICON="">Choice Videos | Ameren Illinois</A>
+            <DT><A HREF="http://instagram.com/developer/endpoints/media/#get_media_search" ADD_DATE="1410643610" ICON="">Media Endpoints • Instagram Developer Documentation</A>
+            <DT><A HREF="https://codility.com/" ADD_DATE="1410809293" ICON="">Codility - we test coders and help improve programming skills worldwide</A>
+            <DT><A HREF="http://www.adobe.com/devnet/fireworks/articles/atv_fw_interaction_design.html" ADD_DATE="1411056492" ICON="">Interaction design and rapid prototyping with Fireworks | Adobe Developer Connection</A>
+            <DT><A HREF="http://www.sonarqube.org/" ADD_DATE="1411103390" ICON="">SonarQube™</A>
+            <DT><A HREF="http://stackoverflow.com/questions/21077322/create-a-chess-board-with-jpanel" ADD_DATE="1411109655" ICON="">java - Create a Chess board with JPanel - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/21142686/making-a-robust-resizable-chess-gui" ADD_DATE="1411135161" ICON="">java - Making a robust, resizable Chess GUI - Stack Overflow</A>
+            <DT><A HREF="http://blog.jetbrains.com/webide/2012/11/navigate-your-code-with-bookmarks/" ADD_DATE="1411140140" ICON="">Navigate your code with bookmarks | WebStorm & PhpStorm Blog</A>
+            <DT><A HREF="https://developer.foursquare.com/docs/venues/herenow" ADD_DATE="1411343128" ICON="">venues/VENUE_ID/herenow | API Endpoints</A>
+            <DT><A HREF="http://www.livebinders.com/play/play?id=1410861" ADD_DATE="1411408572" ICON="">students-ECSillinoisFA14careerfair - LiveBinder</A>
+            <DT><A HREF="http://www.cs.cmu.edu/~pattis/15-1XX/15-200/lectures/controller/" ADD_DATE="1411417493" ICON="">CS 242 A1.2 Controller Components</A>
+            <DT><A HREF="http://chimera.labs.oreilly.com/books/1230000000345/index.html" ADD_DATE="1411437885" ICON="">D3 tutorial - Interactive Data Visualization for the Web</A>
+            <DT><A HREF="http://c3js.org/" ADD_DATE="1411437938" ICON="">C3.js | D3-based reusable chart library</A>
+            <DT><A HREF="https://developers.google.com/chart/interactive/docs/gallery" ADD_DATE="1411438050" ICON="">Chart Gallery - Google Charts — Google Developers</A>
+            <DT><A HREF="https://wiki.cites.illinois.edu/wiki/display/cs225fa11/Lectures" ADD_DATE="1411438609" ICON="">Lectures - CS 225 Fall 2011 - CITES Wiki</A>
+            <DT><A HREF="https://www.jobstart.co/" ADD_DATE="1411439367" ICON="">Jobstart - Get free, effective help finding a job from Alumni</A>
+            <DT><A HREF="https://github.com/IlliniHackers/start-here/wiki" ADD_DATE="1411439529" ICON="">Home · IlliniHackers/start-here Wiki</A>
+            <DT><A HREF="https://www.facebook.com/groups/212685765507084/" ADD_DATE="1411444981" ICON="">ACM</A>
+            <DT><A HREF="https://developers.facebook.com/docs/graph-api/reference/v2.1/user/groups" ADD_DATE="1411520095" ICON="">Graph API /user/groups</A>
+            <DT><A HREF="https://developers.facebook.com/docs/graph-api/reference/v2.1/group/members" ADD_DATE="1411520100" ICON="">Graph API Reference /group-id/members</A>
+            <DT><A HREF="http://tumult.com/hype/" ADD_DATE="1411525107" ICON="">Tumult Hype</A>
+            <DT><A HREF="http://www.softicons.com/free-icons" ADD_DATE="1411603436" ICON="">Free Icons - SoftIcons.com</A>
+            <DT><A HREF="http://shubhanshu.com/FacebookGroupVisual/" ADD_DATE="1411663722" ICON="">We - Facebook Group Visualization</A>
+            <DT><A HREF="https://account.jetbrains.com/licenses/assets" ADD_DATE="1411669019" ICON="">Marco Andre De Oliveira - JetBrains Account</A>
+            <DT><A HREF="http://stackoverflow.com/questions/3525130/how-does-one-document-class-attributes-using-doxygen" ADD_DATE="1411739867" ICON="">php - How does one document class attributes using Doxygen? - Stack Overflow</A>
+            <DT><A HREF="https://mapsengine.google.com/map/edit?authuser=0&authuser=0&hl=pt-BR&hl=pt-BR&mid=zsfvmgYwP_ds.kkHj3X21fBpM" ADD_DATE="1412024242" ICON="">Map Creator - Google Maps</A>
+            <DT><A HREF="https://developers.google.com/maps/documentation/javascript/overlays?hl=pt-ZA#Markers" ADD_DATE="1412025671" ICON="">Sobreposições - API Javascript do Google Maps v3 — Google Developers</A>
+            <DT><A HREF="http://dominoc925.blogspot.com/2012/12/display-shapefiles-on-google-maps-with.html" ADD_DATE="1412029328" ICON="">dominoc925: Display Shapefiles on Google Maps with this Google Mapplet</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11857944/facebook-api-get-life-events-graph-api-or-fql" ADD_DATE="1412096463" ICON="">Facebook API - Get Life Events (graph-api or FQL) - Stack Overflow</A>
+            <DT><A HREF="https://developers.facebook.com/docs/graph-api/reference/v2.1/user" ADD_DATE="1412116768" ICON="">Graph API Reference User /user</A>
+            <DT><A HREF="http://www.quora.com/Is-there-a-way-to-pull-a-friends-Relationship-Status-history-from-Facebook-API" ADD_DATE="1412119402" ICON="">*** Is there a way to pull a friend's Relationship Status history from Facebook API? - Quora</A>
+            <DT><A HREF="http://leafletjs.com/" ADD_DATE="1412222687" ICON="">Leaflet - a JavaScript library for mobile-friendly maps</A>
+            <DT><A HREF="http://polymaps.org/" ADD_DATE="1412222771" ICON="">Polymaps</A>
+            <DT><A HREF="http://www.onlineconversion.com/unix_time.htm" ADD_DATE="1412461522" ICON="">Online Conversion - Unix time conversion</A>
+            <DT><A HREF="http://stackoverflow.com/questions/17416787/fb-api-pagination-without-nesting" ADD_DATE="1412541147" ICON="">facebook - FB.api pagination without nesting - Stack Overflow</A>
+            <DT><A HREF="https://education.github.com/pack/offers" ADD_DATE="1412736731" ICON="">GitHub Student Developer Pack - GitHub Education</A>
+            <DT><A HREF="https://developers.google.com/web/starter-kit/" ADD_DATE="1412816587" ICON="">Web Starter Kit — Web Fundamentals</A>
+            <DT><A HREF="https://developers.google.com/maps/articles/geocodestrat?hl=en-US#client" ADD_DATE="1412879348" ICON="">Geocoding Strategies - Google Maps API — Google Developers</A>
+            <DT><A HREF="http://www.squarespace.com/about/careers?gh_jid=27230" ADD_DATE="1413012790" ICON="">Careers - Squarespace</A>
+            <DT><A HREF="https://developers.google.com/maps/tutorials/kml/" ADD_DATE="1413090135" ICON="">Displaying KML files in your Maps application - Google Maps Tutorials — Google Developers</A>
+            <DT><A HREF="http://geojson.io/#map=2/20.0/0.0" ADD_DATE="1413090742" ICON="">geojson.io</A>
+            <DT><A HREF="http://www.openstreetmap.org/user/wille/diary/20330" ADD_DATE="1413090748" ICON="">OpenStreetMap | Diário de wille | Creating a map with markers imported from OpenStreetMap</A>
+            <DT><A HREF="http://www.sprawlwatch.org/greeninfrastructure.pdf" ADD_DATE="1413150677" ICON="">www.sprawlwatch.org/greeninfrastructure.pdf</A>
+            <DT><A HREF="http://srl.ozyegin.edu.tr/cgi-bin/csair.py" ADD_DATE="1413172245" ICON="">CS Airlines</A>
+            <DT><A HREF="http://psychology.about.com/od/sensationandperception/ss/gestaltlaws_5.htm" ADD_DATE="1413350034" ICON="">Law of Continuity - Gestalt Laws of Perceptual Organization</A>
+            <DT><A HREF="http://jsonformatter.curiousconcept.com/" ADD_DATE="1413405198" ICON="">JSON Formatter & Validator</A>
+            <DT><A HREF="http://www.lastfm.com.br/api/show/geo.getTopTracks" ADD_DATE="1413405451" ICON="">geo.getTopTracks Web Service – Last.fm</A>
+            <DT><A HREF="http://www.reddit.com/r/datasets" ADD_DATE="1413406356" ICON="">Datasets Archive</A>
+            <DT><A HREF="http://www.programmableweb.com/apis/directory" ADD_DATE="1413406360" ICON="">API Directory | ProgrammableWeb</A>
+            <DT><A HREF="https://www.mashape.com/?utm_source=wordpress&utm_medium=blog%2Bpost&utm_campaign=blog-CTA" ADD_DATE="1413406365" ICON="">Mashape - Free API Management Platform & Marketplace</A>
+            <DT><A HREF="http://bl.ocks.org/dwtkns/4973620#index.html" ADD_DATE="1413418834" ICON="">Faux-3D Arcs</A>
+            <DT><A HREF="https://www.google.com/search?q=pixelmator&es_sm=119&biw=640&bih=607&source=lnms&sa=X&ei=NQlAVOmiDNCcyATj0oLABA&ved=0CAcQ_AUoAA&dpr=2" ADD_DATE="1413482836" ICON="">pixelmator - Pesquisa Google</A>
+            <DT><A HREF="http://zetcode.com/gui/tkinter/" ADD_DATE="1413536868" ICON="">Tkinter tutorial</A>
+            <DT><A HREF="https://wiki.cites.illinois.edu/wiki/display/cs242fa14/Getting+Started+on+Mac" ADD_DATE="1413596855" ICON="">Getting Started on Mac - CS 242 FA14 - PHP, Apache, MySQL</A>
+            <DT><A HREF="http://templated.co/megacorp" ADD_DATE="1413601192" ICON="">MegaCorp - TEMPLATED</A>
+            <DT><A HREF="http://templated.co/swarming" ADD_DATE="1413601219" ICON="">Swarming - TEMPLATED</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=sBGTToHrxb4" ADD_DATE="1413774319" ICON="">2010 Texas Bowl Marching Illini Low Brass Cheer - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=OYEc7wS9ldc" ADD_DATE="1413774416" ICON="">"Low Brass Cheer" - YouTube</A>
+            <DT><A HREF="https://developer.musixmatch.com/documentation/api-reference/track-lyrics-get" ADD_DATE="1413776772" ICON="">track-lyrics-get</A>
+            <DT><A HREF="https://cloud.google.com/translate/v2/getting_started#REST" ADD_DATE="1413778097" ICON="">Translate API Getting Started - Google Translate API — Google Cloud Platform</A>
+            <DT><A HREF="https://github.com/dmo60/lLyrics/tree/master/lLyrics" ADD_DATE="1413926817" ICON="">lLyrics/lLyrics at master · dmo60/lLyrics</A>
+            <DT><A HREF="http://api.vagalume.com.br/docs/letras/#apidoc_queryresponse" ADD_DATE="1413929910" ICON="">Letras de Músicas - Documentação - Vagalume API</A>
+            <DT><A HREF="http://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/" ADD_DATE="1414106540" ICON="">Android GPS, Location Manager Tutorial</A>
+            <DT><A HREF="https://developers.google.com/maps/documentation/android/start#overview" ADD_DATE="1414110582" ICON="">Getting Started - Google Maps Android API v2 — Google Developers</A>
+            <DT><A HREF="http://developer.android.com/tools/publishing/app-signing.html#overview" ADD_DATE="1414112111" ICON="">Signing Your Applications | Android Developers</A>
+            <DT><A HREF="http://code2040.org/apply/" ADD_DATE="1414112144" ICON="">Apply | CODE2040</A>
+            <DT><A HREF="http://www.vogella.com/tutorials/AndroidSQLite/article.html" ADD_DATE="1414120746" ICON="">Android SQLite database and content provider - Tutorial</A>
+            <DT><A HREF="http://blog.teamtreehouse.com/how-to-parse-xml-with-php5" ADD_DATE="1414127592" ICON="">How to parse XML with PHP5 | Treehouse Blog</A>
+            <DT><A HREF="http://www.tablesgenerator.com/html_tables" ADD_DATE="1414161083" ICON="">HTML Table generator - TablesGenerator.com</A>
+            <DT><A HREF="http://www.vogella.com/tutorials/AndroidListView/article.html" ADD_DATE="1414211736" ICON="">Using lists in Android (ListView) - Tutorial</A>
+            <DT><A HREF="http://www.learn2crack.com/2013/10/android-custom-listview-images-text-example.html" ADD_DATE="1414216626" ICON="">Android Custom ListView with Images and Text - Example</A>
+            <DT><A HREF="http://stackoverflow.com/questions/8330276/write-a-file-in-external-storage-in-android" ADD_DATE="1414291459" ICON="">Write a file in external storage in Android - Stack Overflow</A>
+            <DT><A HREF="http://mashable.com/2010/11/17/custom-short-url/" ADD_DATE="1414358347" ICON="">HOW TO: Create Your Own Customized Short URL</A>
+            <DT><A HREF="https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md" ADD_DATE="1414429900" ICON="">free-programming-books/free-programming-books.md at master · vhf/free-programming-books</A>
+            <DT><A HREF="https://www.lytmus.io/357" ADD_DATE="1414469964" ICON="">Lytmus | Beta Signup</A>
+            <DT><A HREF="https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap" ADD_DATE="1414524311" ICON="">Heatmaps - Google Maps JavaScript API v3 — Google Developers</A>
+            <DT><A HREF="https://www.google.com/intl/pt/chrome/demos/speech.html" ADD_DATE="1414549793" ICON="">Chrome Browser</A>
+            <DT><A HREF="https://www.leapmotion.com/" ADD_DATE="1414551281" ICON="">Leap Motion | Mac & PC Motion Controller for Games, Design, & More</A>
+            <DT><A HREF="https://github.com/nicolashery/mac-dev-setup" ADD_DATE="1414621528" ICON="">nicolashery/mac-dev-setup</A>
+            <DT><A HREF="http://pocketgems.com/positions/?jvi=o7GGZfwc,Job" ADD_DATE="1414646621" ICON="">Job Description « Pocket Gems</A>
+            <DT><A HREF="http://www.freewebmasterhelp.com/tutorials/phpmysql/4" ADD_DATE="1414803910" ICON="">PHP/MySQL Tutorial - Part 4</A>
+            <DT><A HREF="https://trakt.tv/api-docs/movie-watching" ADD_DATE="1414981087" ICON="">movie/watching - API Documentation - trakt</A>
+            <DT><A HREF="https://developer.chrome.com/extensions/getstarted" ADD_DATE="1414981514" ICON="">Getting Started: Building a Chrome Extension - Google Chrome</A>
+            <DT><A HREF="http://tableless.com.br/google-web-starter-kit/" ADD_DATE="1412873837" ICON="">Google Web Starter Kit - Tableless</A>
+            <DT><A HREF="https://discussion.heroku.com/t/google-web-starter-kit-webapp-heroku-application-error-fundamental-issue-of-understanding-or-bug/691/3" ADD_DATE="1415140781" ICON="">Google web-starter-kit WebApp + Heroku = Application Error... Fundamental issue of understanding or Bug? - Heroku Forums</A>
+            <DT><A HREF="https://dashboard-next.heroku.com/apps" ADD_DATE="1415141235" ICON="">Personal Apps | Heroku</A>
+            <DT><A HREF="http://www.google.com/edu/tools-and-solutions/guide-for-technical-development/index.html" ADD_DATE="1415242383" ICON="">Google in Education</A>
+            <DT><A HREF="https://apigee.com/trakt/console/morbo?apig_cc=1" ADD_DATE="1415256134" ICON="">morbo API Console | Learn, test, and debug the morbo API</A>
+            <DT><A HREF="http://markashleybell.com/building-a-simple-google-chrome-extension.html" ADD_DATE="1415342695" ICON="">Building a simple Google Chrome extension - Mark Ashley Bell</A>
+            <DT><A HREF="https://developer.chrome.com/extensions/content_scripts" ADD_DATE="1415343494" ICON="">Content Scripts - Google Chrome</A>
+            <DT><A HREF="http://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076" ADD_DATE="1415340969" ICON="">Developing Google Chrome Extensions - Tuts+ Code Tutorial</A>
+            <DT><A HREF="http://converter.mygeodata.eu/" ADD_DATE="1415587686" ICON="">MyGeoData | Free Online GIS Data Converter | SHP, KML, TAB, GeoTiff...</A>
+            <DT><A HREF="http://www.androidhive.info/2013/11/android-sliding-menu-using-navigation-drawer/" ADD_DATE="1415654532" ICON="">Android Sliding Menu using Navigation Drawer</A>
+            <DT><A HREF="http://spacetech.dk/android-convert-intent-to-fragment.html" ADD_DATE="1415656375" ICON="">Android Convert Intent to Fragment | SpaceTech</A>
+            <DT><A HREF="http://stackoverflow.com/questions/23476645/android-navigation-drawer-implemented-with-activities" ADD_DATE="1415657813" ICON="">Android Navigation Drawer implemented with Activities - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/3955803/page-variables-in-content-script" ADD_DATE="1415663367" ICON="">javascript - Page variables in content script - Stack Overflow</A>
+            <DT><A HREF="http://qunitjs.com/intro/" ADD_DATE="1415685111" ICON="">Introduction to Unit Testing | QUnit</A>
+            <DT><A HREF="http://itouchmap.com/latlong.html" ADD_DATE="1415133279" ICON="">Latitude and Longitude of a Point</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11788105/d3-circle-pack-setting-circle-colors" ADD_DATE="1415780567" ICON="">javascript - d3 circle pack: setting circle colors - Stack Overflow</A>
+            <DT><A HREF="http://colorbrewer2.org/" ADD_DATE="1416014730" ICON="">ColorBrewer: Color Advice for Maps</A>
+            <DT><A HREF="http://www.mapsdata.co.uk/online-file-converter/#kml-instructions" ADD_DATE="1416104863" ICON="">Online KML converter – batch geocoder | MapsData</A>
+            <DT><A HREF="https://developers.google.com/maps/documentation/javascript/examples/poly-containsLocation" ADD_DATE="1416202215" ICON="">containsLocation() - Google Maps JavaScript API v3 — Google Developers</A>
+            <DT><A HREF="http://www.hongkiat.com/blog/android-screen-recording-apps/" ADD_DATE="1416282368" ICON="">5 Android Screen Recording Apps To Record your Screen Activity</A>
+            <DT><A HREF="http://www.creare.co.uk/local-business-map-google-maps-api" ADD_DATE="1416549008" ICON="">Google Maps API v3 tutorial - how to make a simple local business map</A>
+            <DT><A HREF="http://www.macworld.co.uk/review/utilities/cocktail-67-review-keep-your-mac-healthy-selection-software-tools-3467221/" ADD_DATE="1416441942" ICON="">Cocktail 6.7 review - Keep your Mac healthy with this selection of software tools - Review - Macworld UK</A>
+            <DT><A HREF="http://tiny.cc/" ADD_DATE="1417388811" ICON="">Tiny | a Simple URL Shortener</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1414908944" LAST_MODIFIED="1417473088">Travel</H3>
+        <DL><p>
+            <DT><A HREF="http://www.bakpakguide.com/usa/destinations/featured/a-week-in-los-angeles.shtml" ADD_DATE="1414908993" ICON="">A Week in Los Angeles - Hostels & Backpacking</A>
+            <DT><A HREF="http://www.latourist.com/?page=tv-show-tickets" ADD_DATE="1414908937" ICON="">Los Angeles Area TV Studios and Show Tickets</A>
+            <DT><A HREF="https://pt.airbnb.com/rooms/1500330?checkin=19%2F11%2F2014&checkout=29%2F11%2F2014&s=I2cD" ADD_DATE="1414995932" ICON="">Friendly Guesthouse near Seattle em Seattle</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1407979129" LAST_MODIFIED="1417473088">BCC</H3>
+        <DL><p>
+            <DT><A HREF="http://tableless.com.br/primeiros-passos-com-node-js/" ADD_DATE="1406567419" ICON="">Primeiros passos com Node.js | Tableless</A>
+            <DT><A HREF="http://www.ciandt.com/card/programa-de-estagio-2015" ADD_DATE="1406454330" ICON="">Programa de Estágio 2015</A>
+            <DT><A HREF="http://www.microsoftvirtualacademy.com/" ADD_DATE="1400828959" ICON="">Microsoft Virtual Academy - Cursos online gratuitos para desenvolvedores e profissionais de TI</A>
+            <DT><A HREF="http://scholar.google.com.br/" ADD_DATE="1331479823" ICON="">Google Acadêmico</A>
+            <DT><A HREF="https://groups.google.com/forum/?hl=pt-BR&fromgroups#!overview" ADD_DATE="1334450958" ICON="">Grupo BCC</A>
+            <DT><A HREF="http://citeseer.ist.psu.edu/index;jsessionid=91631B92F07D309A7A02CCDA4BD3544F" ADD_DATE="1331480232" ICON="">CiteSeerX</A>
+            <DT><A HREF="http://www.scielo.br/" ADD_DATE="1331335163" ICON="">SciELO - Scientific Electronic Library Online</A>
+            <DT><A HREF="http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=1234670b-8a9b-e011-969d-0030487d8897&vsro=8" ADD_DATE="1333142449" ICON="">DreamSpark</A>
+            <DT><A HREF="http://www.wolframalpha.com/" ADD_DATE="1333234137" ICON="">Wolfram Alpha</A>
+            <DT><A HREF="http://www.mesalva.net/" ADD_DATE="1340023812" ICON="">Me Salva!</A>
+            <DT><A HREF="http://www.edxonline.org/" ADD_DATE="1336083825" ICON="">edX - Home</A>
+            <DT><A HREF="http://www.udacity.com/" ADD_DATE="1345165544" ICON="">Udacity</A>
+            <DT><A HREF="https://www.coursera.org/" ADD_DATE="1345165552" ICON="">Coursera.org</A>
+            <DT><A HREF="http://ira.ufscar.anoluz.net/v3/" ADD_DATE="1378423323" ICON="">Simulador IRA</A>
+            <DT><A HREF="http://browserdiet.com/pt/" ADD_DATE="1367882427" ICON="">Como perder peso (no browser)</A>
+            <DT><A HREF="http://wearekiss.com/spritepad" ADD_DATE="1367883425" ICON="">The easiest way to create your CSS sprites - SpritePad</A>
+            <DT><A HREF="http://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/bipartite.html" ADD_DATE="1370992838" ICON="">Grafos bicoloridos</A>
+            <DT><A HREF="http://www.syncfusion.com/resources/techportal/ebooks" ADD_DATE="1371929232" ICON="">Syncfusion Ebooks</A>
+            <DT><A HREF="http://linuxdicas.wikispaces.com/comandos-linux" ADD_DATE="1372221374" ICON="">linuxdicas - comandos-linux</A>
+            <DT><A HREF="http://www.vivaolinux.com.br/topico/Comandos/Esconder-saidas..." ADD_DATE="1372285377" ICON="">Linux: Comandos - Esconder saidas...</A>
+            <DT><A HREF="http://www.blogcloud.com.br/tutorial/como-criar-um-blog-wordpress-na-amazon-ec2-de-graca-por-1-ano" ADD_DATE="1373150558" ICON="">Como criar um blog Wordpress na Amazon EC2 de graça por 1 ano! | Blog Cloud</A>
+            <DT><A HREF="https://developer.mozilla.org/en-US/" ADD_DATE="1399340592" ICON="">Mozilla Developer Network</A>
+            <DT><A HREF="http://www.caelum.com.br/apostila-java-orientacao-objetos/" ADD_DATE="1373779619" ICON="">Apostila Java e Orientação a Objetos - Caelum</A>
+            <DT><A HREF="http://tutsmais.com.br/blog/sublime-2/melhores-plugins-para-sublime-text-2/#css-comb" ADD_DATE="1376789570" ICON="">Melhores Plugins para Sublime Text 2 - Tutsmais</A>
+            <DT><A HREF="http://tutsmais.com.br/blog/" ADD_DATE="1376791198" ICON="">Tutsmais - + tutoriais e dicas</A>
+            <DT><A HREF="http://robertoprotasio.com/2012/05/02/usando-sublime-text-2-para-desenvolvimento/" ADD_DATE="1376793598" ICON="">Usando Sublime Text 2 para Desenvolvimento - Roberto Protásio | Roberto Protásio</A>
+            <DT><A HREF="http://tutsmais.com.br/blog/slides/slides-de-front-end-do-olhoseo/" ADD_DATE="1376793828" ICON="">Slides de Front-end do OlhóSEO - Tutsmais</A>
+            <DT><A HREF="http://efomento.cnpq.br/efomento/autenticacao.jsp" ADD_DATE="1376962644" ICON="">CNPq</A>
+            <DT><A HREF="http://www.devmedia.com.br/introducao-a-interface-gui-no-java/25646" ADD_DATE="1377620485" ICON="">Introdução a Interface GUI no Java</A>
+            <DT><A HREF="http://tympanus.net/Development/CreativeLinkEffects/#cl-effect-21" ADD_DATE="1377835194" ICON="">Creative Link Effects</A>
+            <DT><A HREF="http://tympanus.net/Development/CreativeButtons/" ADD_DATE="1377835315" ICON="">Creative Button Styles</A>
+            <DT><A HREF="http://www.slideshare.net/alexom/sad-sistemas-de-apoio-a-decisoes" ADD_DATE="1377871551" ICON="">SAD - Sistemas de Apoio a Decisoes</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/Racioc%C3%ADnio_baseado_em_casos" ADD_DATE="1377871567" ICON="">Raciocínio baseado em casos – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://jamacedo.com/2010/02/envio-de-email-de-forma-facil-com-java/" ADD_DATE="1382504313" ICON="">Envio de email de forma fácil com Java! | José Alexandre Macedo Blog</A>
+            <DT><A HREF="http://www.guj.com.br/java/106280-melhor-maneira-de-enviar-e-mail-com-java" ADD_DATE="1378221651" ICON="">Melhor maneira de enviar e-mail com Java</A>
+            <DT><A HREF="http://vimeo.com/54484312" ADD_DATE="1378954447" ICON="">Intro to Working with LaTeX in Sublime Text 2 on Vimeo</A>
+            <DT><A HREF="http://latexbr.blogspot.com.br/2013/03/sublime-text-2-via-ppa-latextools-plugin.html" ADD_DATE="1378955188" ICON="">LaTeX BR: Sublime Text 2 via PPA + LaTeXTools plugin</A>
+            <DT><A HREF="http://latexbr.blogspot.com.br/2013/06/instalando-texlive-2013.html#more" ADD_DATE="1378955196" ICON="">LaTeX BR: Instalando TeXLive 2013</A>
+            <DT><A HREF="http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/" ADD_DATE="1378960175" ICON="">Making your first PDF with LaTeX and Sublime Text 2 - Economistry</A>
+            <DT><A HREF="http://www.latextemplates.com/" ADD_DATE="1378962678" ICON="">LaTeX Templates</A>
+            <DT><A HREF="https://c9.io/site/pricing/" ADD_DATE="1378965704" ICON="">Sign up for Standard or Premium! | Cloud9 IDE | Online IDE – Your code anywhere, anytime</A>
+            <DT><A HREF="https://github.com/zenorocha/sublime-preferences" ADD_DATE="1379527591" ICON="">zenorocha/sublime-preferences · GitHub</A>
+            <DT><A HREF="http://tutsmais.com.br/blog/ide/como-criar-snippets-no-sublime-text-2-rapido-pratico-util-e-sexy/" ADD_DATE="1379536665" ICON="">Como criar Snippets no Sublime Text 2 - Rápido, prático, útil e sexy. - Tutsmais</A>
+            <DT><A HREF="http://poincare.matf.bg.ac.rs/~ivana//courses/ps/sistemi_knjige/pomocno/apue.pdf" ADD_DATE="1379636869" ICON="">Advanced Programming in Unix pdf</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/Coordenadas_polares" ADD_DATE="1380053255" ICON="">Coordenadas polares – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://www.ebah.com.br/content/ABAAAAaVUAB/manual-encoder" ADD_DATE="1380053259" ICON="">Manual Encoder - Manual sobre Encoder</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/Diagrama_de_Voronoy" ADD_DATE="1380053262" ICON="">Diagrama de Voronoy – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://pt.scribd.com/doc/56110448/Manual-Asimovm" ADD_DATE="1380644895" ICON="">Manual Asimovm</A>
+            <DT><A HREF="http://matlabnstuff.blogspot.com.br/2013/02/capture-and-save-frames-using-webcam.html" ADD_DATE="1380650192" ICON="">Matlab n Stuff: Capture and save Frames using Webcam matlab Code</A>
+            <DT><A HREF="http://tutology.net/category/editors/sublime-text-editor-linux" ADD_DATE="1381423340" ICON="">Sublime Text Editor in Linux | Where Tutorial and Technology Meets</A>
+            <DT><A HREF="http://wiki.icmc.usp.br/images/b/ba/17GracaArvoresBparte2a.pdf" ADD_DATE="1381855012" ICON="">Árvores B Slides</A>
+            <DT><A HREF="http://www.studytonight.com/dbms/database-normalization.php" ADD_DATE="1381942701" ICON="">1NF, 2NF, 3NF and BCNF in Database Normalization</A>
+            <DT><A HREF="http://forum.codecall.net/topic/50067-basic-jtable-and-netbeans/" ADD_DATE="1381945528" ICON="">Basic JTable and Netbeans - Java Tutorials - Codecall</A>
+            <DT><A HREF="http://ninite.com/" ADD_DATE="1381964972" ICON="">Ninite - Install or Update Multiple Apps at Once</A>
+            <DT><A HREF="http://forum.ubuntued.info/viewtopic.php?f=31&t=2730" ADD_DATE="1365122258" ICON="">Sublime Text 2 no Ubuntu | config. gedit padrão</A>
+            <DT><A HREF="http://tutsmais.com.br/blog/sublime-2/melhores-plugins-para-sublime-text-2/" ADD_DATE="1365385328" ICON="">Melhores Plugins para Sublime Text 2 - Tutsmais</A>
+            <DT><A HREF="http://ubuntuforum-br.org/index.php?topic=66292.0" ADD_DATE="1369505456" ICON="">Editar Grub no Ubuntu 10.04 [Resolvido]</A>
+            <DT><A HREF="http://www.tecdicas.com/2013/03/como-editar-o-grub-no-ubuntu-12-10.html" ADD_DATE="1369505472" ICON="">Como editar o GRUB no Ubuntu 12.10 | Tec Dicas</A>
+            <DT><A HREF="http://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html" ADD_DATE="1383049639" ICON="">A Visual Guide to Layout Managers (The Java™ Tutorials > Creating a GUI With JFC/Swing > Laying Out Components Within a Container)</A>
+            <DT><A HREF="http://www.typeform.com/" ADD_DATE="1383074881" ICON="">Typeform | Discover a better way to ask questions online</A>
+            <DT><A HREF="https://code.google.com/p/relativelayout/" ADD_DATE="1383177543" ICON="">relativelayout - An intuitive and powerful layout manager for Java Swing - Google Project Hosting</A>
+            <DT><A HREF="https://developers.google.com/java-dev-tools/wbpro/layoutmanagers/swing/boxlayout" ADD_DATE="1383236740" ICON="">Swing BoxLayout - Java Developer Tools — Google Developers</A>
+            <DT><A HREF="http://www.dma.fi.upm.es/" ADD_DATE="1383313162" ICON="">Departamento de Matemática Aplicada</A>
+            <DT><A HREF="http://www.pinterest.com/pin/67413325645387366/" ADD_DATE="1383626146" ICON="">Navigation / Flat design #flat #design | User Interface</A>
+            <DT><A HREF="http://www.jfree.org/jfreechart/samples.html" ADD_DATE="1383652321" ICON="">JFreeChart: Samples</A>
+            <DT><A HREF="http://www.caelum.com.br/apostila-java-testes-xml-design-patterns/" ADD_DATE="1383652406" ICON="">Apostila Laboratório Java com Testes, XML e Design Patterns - Caelum</A>
+            <DT><A HREF="http://www.caelum.com.br/apostila-java-testes-xml-design-patterns/interfaces-graficas-com-swing/#5-15-exercicios-opcionais-melhorando-a-apresentacao" ADD_DATE="1383652492" ICON="">Interfaces gráficas com Swing - Laboratório Java com Testes, XML e Design Patterns</A>
+            <DT><A HREF="http://www.miglayout.com/" ADD_DATE="1383652716" ICON="">MiG Layout Java Layout Manager for Swing and SWT</A>
+            <DT><A HREF="http://www.jgoodies.com/freeware/libraries/forms/" ADD_DATE="1383653355" ICON="">JGoodies FormLayout | JGoodies</A>
+            <DT><A HREF="http://www.inf.ufpr.br/todt/ci321/ci321A-20122-localizacao-probabilistica.pdf" ADD_DATE="1383675131" ICON="">Robótica Localização Probabilística</A>
+            <DT><A HREF="http://uspds.sourceforge.net/Artigos/bianchi_romero_SBAI.pdf" ADD_DATE="1383675153" ICON="">ROBÔ MENSAGEIRO BASEADO EM NAVEGAÇÃO PROBABILÍSTICA </A>
+            <DT><A HREF="http://www.mudancasabruptas.com.br/Filtro%20de%20Kalman_Iniciantes.pdf" ADD_DATE="1383675366" ICON="">Filtro de Kalman - Teoria e Aplicação para Iniciantes</A>
+            <DT><A HREF="http://brasil.rfidjournal.com/notas-do-editor/vision?9921" ADD_DATE="1383675850" ICON="">Para fazer robôs que sabem ver - RFID Noticias - RFID Journal Brasil</A>
+            <DT><A HREF="http://www.inmidia.com.br/artigos/rfid_journal.pdf" ADD_DATE="1383676539" ICON="">30 Formas Inovadoras  de Usar RFID</A>
+            <DT><A HREF="http://www.nr2.ufpr.br/papers/RFIDTags08.pdf" ADD_DATE="1383676941" ICON="">RFID Tags: Positioning Principles and Localization  Techniques </A>
+            <DT><A HREF="http://mycoordinates.org/active-rfid-trilateration-for-indoor-positioning/" ADD_DATE="1383677732" ICON="">Coordinates : A resource on positioning, navigation and beyond » Blog Archive » Active RFID trilateration for indoor positioning</A>
+            <DT><A HREF="http://gola.mathnium.com/" ADD_DATE="1383684493" ICON="">Gola: A Graphical Layout Tool for Java Swing/AWT</A>
+            <DT><A HREF="http://www.vivaolinux.com.br/dica/Instalando-o-PostgreSQL-e-pgAdmin3-no-Ubuntu" ADD_DATE="1383781258" ICON="">Linux: Instalando o PostgreSQL e pgAdmin3 no Ubuntu [Dica]</A>
+            <DT><A HREF="http://samus.com.br/web/site/artigo-todas_as_cidades_do_brasil_atualizado_e_com_acentos" ADD_DATE="1383885230" ICON="">Todas as Cidades do Brasil Atualizado e com Acentos - Samus - Desenvolvimento Web</A>
+            <DT><A HREF="http://stackoverflow.com/questions/8059706/jtable-object-array" ADD_DATE="1383959210" ICON="">java - JTable object array - Stack Overflow</A>
+            <DT><A HREF="http://www.coderanch.com/t/344729/GUI/java/JTable" ADD_DATE="1383965414" ICON="">getting value from JTable (Swing / AWT / SWT forum at JavaRanch)</A>
+            <DT><A HREF="http://www.bluestacks.com/" ADD_DATE="1384031281" ICON="">Run Mobile Apps on Windows PC or Mac with BlueStacks | Android App Player</A>
+            <DT><A HREF="http://www.softwarepassion.com/deploy-your-java-application-with-izpack-installer/" ADD_DATE="1384037606" ICON="">Deploy your Java Application with IzPack Installer</A>
+            <DT><A HREF="http://www.botecodigital.info/java/validando-dados-com-expressoes-regulares-em-java/" ADD_DATE="1384058843" ICON="">Validando dados com expressões regulares em Java | Boteco Digital</A>
+            <DT><A HREF="http://www.ri.cmu.edu/ri_search_result.html" ADD_DATE="1384217659" ICON="">Robotics Institute: Search results for Publication</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=LHqB47F12vI" ADD_DATE="1384284057" ICON="">Mercedes-Benz S 500 Intelligent Drive Autonomous Car Self Driving Car</A>
+            <DT><A HREF="http://www.mathworks.com/help/images/ref/edge.html" ADD_DATE="1384284140" ICON="">Find edges in intensity image - MATLAB edge</A>
+            <DT><A HREF="http://stackoverflow.com/questions/12600167/matlab-canny-edge-detector" ADD_DATE="1384284210" ICON="">Matlab: canny edge detector - Stack Overflow</A>
+            <DT><A HREF="http://www.acidadevotuporanga.com.br/variedades/2013/10/escola-sesi-de-votuporanga-e-destaque-em-olimpiada-de-robotica-n17456" ADD_DATE="1384284225" ICON="">Escola Sesi de Votuporanga é destaque em Olimpíada de Robótica - Jornal A Cidade de Votuporanga</A>
+            <DT><A HREF="https://www.google.com.br/search?q=matlab+canny&oq=matlab+canny&aqs=chrome..69i57j0l5.2402j0j7&sourceid=chrome&espv=210&es_sm=122&ie=UTF-8" ADD_DATE="1384284282" ICON="">matlab canny - Pesquisa Google</A>
+            <DT><A HREF="http://www.toedter.com/en/jcalendar/" ADD_DATE="1384445252" ICON="">JCalendar Java Bean, a Java Date Chooser</A>
+            <DT><A HREF="http://javafree.uol.com.br/topic-865936-Como-usar-e-instalar-o-JCalendar.html" ADD_DATE="1384445261" ICON="">Como usar e instalar o JCalendar - Javafree: O fórum de Java que mais cresce</A>
+            <DT><A HREF="http://www.javasimples.com.br/swing-awt/adicionando-jcalendar-e-jdatechooser-paleta-do-netbeans" ADD_DATE="1384474967" ICON="">Java Simples » Adicionando JCalendar e JDateChooser à paleta do Netbeans</A>
+            <DT><A HREF="http://loopinfinito.com.br/2013/11/12/quanto-vale-1px/?utm_source=BrazilJS+Weekly&utm_campaign=f41abeaf1a-BrazilJS_Weekly_303_22_2013&utm_medium=email&utm_term=0_e6beed4270-f41abeaf1a-41711133&ct=t%28BrazilJS_Weekly_468_9_2013%29" ADD_DATE="1384475773" ICON="">Quanto vale 1px? – Loop Infinito</A>
+            <DT><A HREF="https://www.simple-talk.com/sql/learn-sql-server/how-to-import-data-from-html-pages/" ADD_DATE="1384486173" ICON="">How to Import Data from HTML pages</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11170977/how-to-import-text-from-a-webpage-into-a-textview" ADD_DATE="1384486271" ICON="">android - How to import text from a webpage into a textview? - Stack Overflow</A>
+            <DT><A HREF="http://www.wowebook.com/" ADD_DATE="1384557383" ICON="">Home | Wow! eBook</A>
+            <DT><A HREF="http://www.mballem.com/post/enviando-email-com-a-api-javamail" ADD_DATE="1384658347" ICON="">Enviando email com a API JavaMail</A>
+            <DT><A HREF="http://mballem.files.wordpress.com/2011/02/tutorialjavamail.pdf" ADD_DATE="1384661767" ICON="">mballem.files.wordpress.com/2011/02/tutorialjavamail.pdf</A>
+            <DT><A HREF="http://www.microsoft.com/brasil/apps/windows.html" ADD_DATE="1384662318" ICON="">Apps Windows 8 - Microsoft Brasil</A>
+            <DT><A HREF="http://www.postgresql.org/docs/7.1/static/functions-datetime.html" ADD_DATE="1385181568" ICON="">PostgreSQL: Documentation: 7.1: Date/Time Functions</A>
+            <DT><A HREF="http://nodejs.org/" ADD_DATE="1385252895" ICON="">node.js</A>
+            <DT><A HREF="http://pgdocptbr.sourceforge.net/pg80/ddl-alter.html" ADD_DATE="1385356467" ICON="">Modificação de tabelas</A>
+            <DT><A HREF="http://pgdocptbr.sourceforge.net/pg80/sql-altertable.html" ADD_DATE="1385356794" ICON="">ALTER TABLE</A>
+            <DT><A HREF="http://stackoverflow.com/questions/1467692/how-do-i-acquire-images-at-timed-intervals-using-matlab" ADD_DATE="1385682194" ICON="">How do I Acquire Images at Timed Intervals using MATLAB? - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/1637589/how-do-i-record-video-from-a-webcam-in-matlab/12492238#12492238" ADD_DATE="1385682441" ICON="">How do I record video from a webcam in MATLAB? - Stack Overflow</A>
+            <DT><A HREF="http://www.mathworks.com/help/coder/examples/edge-detection-on-images.html" ADD_DATE="1385692834" ICON="">Edge Detection on Images - MATLAB & Simulink Example</A>
+            <DT><A HREF="http://www.matlabtips.com/realtime-processing/" ADD_DATE="1385693551" ICON="">Real-time processing in Matlab | Matlabtips.com</A>
+            <DT><A HREF="http://www.mathworks.com/videos/using-kinect-for-windows-with-matlab-77799.html" ADD_DATE="1385694391" ICON="">Using Kinect for Windows with MATLAB - MATLAB Video</A>
+            <DT><A HREF="http://programadoraprendendo.blogspot.com.br/2012/12/algoritmos-de-selecao-metodo-da-roleta.html" ADD_DATE="1385728335" ICON="">Programador Aprendendo: Algoritmos de Seleção: Método da Roleta</A>
+            <DT><A HREF="http://aprendolatex.wordpress.com/" ADD_DATE="1385737280" ICON="">O que vou aprendendo em LaTeX | Mais uma página sobre LaTeX</A>
+            <DT><A HREF="http://tableless.com.br/" ADD_DATE="1385772200" ICON="">Tableless - Desenvolvimento inteligente com padrões web e design</A>
+            <DT><A HREF="http://launchrock.co/?ref=hm" ADD_DATE="1385868478" ICON="">LaunchRock - Set up a "Launching Soon" page in minutes</A>
+            <DT><A HREF="https://www.google.com.br/search?q=questdlg+matlab&espv=210&es_sm=122&source=lnms&sa=X&ei=7LihUsFPxamQB9a-gNgN&ved=0CAgQ_AUoAA&biw=1366&bih=642&dpr=1" ADD_DATE="1386330354" ICON="">questdlg matlab - (interface)</A>
+            <DT><A HREF="http://engeletrica-mef.blogspot.com.br/2008/12/arquivo-executvel-em-ambiente-matlab.html" ADD_DATE="1386340313" ICON="">Método dos Elementos Finitos: Arquivo Executável em Ambiente Matlab</A>
+            <DT><A HREF="https://medium.com/frontend-and-beyond/914c7d3795fb" ADD_DATE="1386548120" ICON="">“View mode” approach to responsive web design — Frontend and beyond — Medium</A>
+            <DT><A HREF="http://stackoverflow.com/questions/4089311/how-can-i-return-a-value-from-a-jdialog-box-to-the-parent-jframe" ADD_DATE="1386569768" ICON="">java - How can I return a value from a JDialog box to the parent JFrame? - Stack Overflow</A>
+            <DT><A HREF="http://blogs.mathworks.com/steve/" ADD_DATE="1386682860" ICON="">Steve on Image Processing</A>
+            <DT><A HREF="http://basic-eng.blogspot.com.es/2005/11/detecting-objects-shapeiii-triangle.html" ADD_DATE="1386703191" ICON="">what I know about IMAGE Processing: Detecting Objects' Shape(III) : Triangle Object</A>
+            <DT><A HREF="http://www.dca.ufrn.br/~pablo/FTP/sist_rob/cap05.pdf" ADD_DATE="1387155500" ICON="">Caminhos Livres REF ROBOTICA</A>
+            <DT><A HREF="http://petercorke.com/Robotics_Toolbox.html" ADD_DATE="1387246187" ICON="">Robotics Toolbox</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11790700/find-the-distance-from-camera-to-vanishing-point-in-matlab" ADD_DATE="1387260874" ICON="">image - Find the distance from camera to vanishing point in matlab - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/14444995/how-to-get-the-vanishing-line" ADD_DATE="1387262160" ICON="">matlab - How to get the vanishing line - Stack Overflow</A>
+            <DT><A HREF="http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings" ADD_DATE="1387745473" ICON="">Best of Sublime Text 3: Features, Plugins, and Settings ♥ Scotch</A>
+            <DT><A HREF="http://www.masnun.com/2013/07/08/beautiful-themes-for-sublime-text-3.html" ADD_DATE="1387774096" ICON="">Beautiful Themes for Sublime Text 3 | Abu Ashraf Masnun</A>
+            <DT><A HREF="http://tableless.com.br/css-sprites/#.UtoHl9JTvIU" ADD_DATE="1390020593" ICON="">CSS Sprites - Tableless</A>
+            <DT><A HREF="http://blog.thiagobelem.net/" ADD_DATE="1390021352" ICON="">Thiago Belem / Blog | Artigos e tutoriais sobre PHP, CakePHP, WordPress, jQuery, HTML e CSS</A>
+            <DT><A HREF="http://blog.thiagobelem.net/zen-coding-criando-html-como-um-ninja/" ADD_DATE="1390021485" ICON="">Zen-Coding – Criando HTML como um ninja! | Thiago Belem / Blog</A>
+            <DT><A HREF="http://blog.thiagobelem.net/php-e-mysql-para-iniciantes-consulta-simples/" ADD_DATE="1390022136" ICON="">PHP e MySQL para iniciantes – Consulta Simples | Thiago Belem / Blog</A>
+            <DT><A HREF="http://blog.thiagobelem.net/php-e-mysql-para-iniciantes-consulta-avancada/" ADD_DATE="1390022142" ICON="">PHP e MySQL para iniciantes – Consulta Avançada | Thiago Belem / Blog</A>
+            <DT><A HREF="http://blog.thiagobelem.net/criando-um-blog-com-php-e-mysql-wordpress/" ADD_DATE="1390022280" ICON="">Criando um blog com PHP e MySQL – WordPress | Thiago Belem / Blog</A>
+            <DT><A HREF="http://tech.bluesmoon.info/2011/01/device-width-and-how-not-to-hate-your.html" ADD_DATE="1390114467" ICON="">device-width and how not to hate your users</A>
+            <DT><A HREF="http://css-tricks.com/snippets/css/media-queries-for-standard-devices/" ADD_DATE="1390114997" ICON="">Media Queries for Standard Devices | CSS-Tricks</A>
+            <DT><A HREF="http://css-tricks.com/snippets/php/detect-location-by-ip/" ADD_DATE="1390116204" ICON="">Detect Location by IP | CSS-Tricks</A>
+            <DT><A HREF="http://css-tricks.com/snippets/css/internationalization-language-css/" ADD_DATE="1390116423" ICON="">Internationalization Language CSS | CSS-Tricks</A>
+            <DT><A HREF="http://www.javascriptkit.com/script/script2/language.shtml" ADD_DATE="1390117049" ICON="">Cut & Paste Different page for different browser language setting</A>
+            <DT><A HREF="http://www.dummies.com/how-to/content/javascript-and-html.html" ADD_DATE="1390117065" ICON="">JavaScript and HTML - For Dummies</A>
+            <DT><A HREF="http://www.ektron.com/Blogs/eGandalf/Responsive-Design-Isn-t-Good-Enough/" ADD_DATE="1390448533" ICON="">Lulu Recomenda: Responsive Design Isn’t Good Enough // Ektron</A>
+            <DT><A HREF="http://postimg.org/gallery/8jyhhzwu/5b6ac33f/" ADD_DATE="1390517603" ICON="">Postimage.org / gallery - nd, Untitled, Untitled2</A>
+            <DT><A HREF="http://docs.vagrantup.com/v2/getting-started/index.html" ADD_DATE="1391102604" ICON="">Getting Started - Vagrant Documentation</A>
+            <DT><A HREF="http://compress.smallpdf.com/" ADD_DATE="1391108354" ICON="">Compress PDF – Comprimir PDF</A>
+            <DT><A HREF="http://placehold.it/" ADD_DATE="1394250739" ICON="">Placehold.it - Quick and simple image placeholders HTML WEB</A>
+            <DT><A HREF="http://sublimall.org/" ADD_DATE="1394251449" ICON="">Sublimall sublime sync</A>
+            <DT><A HREF="http://www.sublimetext.com/forum/viewtopic.php?f=3&t=4803" ADD_DATE="1394254973" ICON="">Sublime Forum • View topic - Toggle comment not working on Windows for me</A>
+            <DT><A HREF="http://emmet.io/" ADD_DATE="1394255765" ICON="">Emmet — the essential toolkit for web-developers</A>
+            <DT><A HREF="https://github.com/spadgos/sublime-jsdocs" ADD_DATE="1394259830" ICON="">spadgos/sublime-jsdocs · GitHub</A>
+            <DT><A HREF="https://atom.io/" ADD_DATE="1395024846" ICON="">Atom</A>
+            <DT><A HREF="http://postgresql.1045698.n5.nabble.com/PostgreSQL-no-Windows-7-Ultimate-64-bits-td2043891.html" ADD_DATE="1395196414" ICON="">PostgreSQL - Brasil - PostgreSQL no Windows 7 Ultimate 64 bits</A>
+            <DT><A HREF="http://icons8.com/" ADD_DATE="1395361680" ICON="">icons in Windows 8 and iOS 7 style — Icons8</A>
+            <DT><A HREF="http://www.scratchapixel.com/" ADD_DATE="1395799508" ICON="">Computer Graphics Programming Techniques and Ray Tracing Tutorials » www.scratchapixel.com</A>
+            <DT><A HREF="http://www.chartjs.org/" ADD_DATE="1395958999" ICON="">Chart.js | HTML5 Charts for your website.</A>
+            <DT><A HREF="http://rogerdudler.github.io/git-guide/index.pt_BR.html" ADD_DATE="1397000462" ICON="">git - guia prático - sem complicação!</A>
+            <DT><A HREF="http://think-like-a-git.net/epic.html#about-this-site/who-this-site-is-for" ADD_DATE="1397003242" ICON="">Epic Mode // Think Like (a) Git</A>
+            <DT><A HREF="http://git-scm.com/book/pt-br/Git-Essencial-Gravando-Altera%C3%A7%C3%B5es-no-Reposit%C3%B3rio#Fazendo-Commit-de-Suas-Mudanças" ADD_DATE="1397008644" ICON="">Git - Gravando Alterações no Repositório</A>
+            <DT><A HREF="http://tableless.com.br/iniciando-no-git-parte-1/" ADD_DATE="1397265493" ICON="">Iniciando no GIT – Parte 1 | Tableless</A>
+            <DT><A HREF="http://tableless.com.br/iniciando-no-git-parte-2/" ADD_DATE="1397265508" ICON="">Iniciando no GIT – Parte 2 | Tableless</A>
+            <DT><A HREF="http://blog.lnk.si/posts/fake-latex.html" ADD_DATE="1397321344" ICON="">How to fake LaTeX in Microsoft Word 2007 | blog.lnk.si</A>
+            <DT><A HREF="http://design.osu.edu/carlson/history/lessons.html" ADD_DATE="1397349888" ICON="">Index of Course Sections</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=USyoT_Ha_bA" ADD_DATE="1397362129" ICON="">Ivan Sutherland : Sketchpad Demo (1/2) - YouTube</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/Algoritmo_de_Bresenham" ADD_DATE="1397753448" ICON="">Algoritmo de Bresenham – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://forum.guiadohacker.com.br/showthread.php?t=34019" ADD_DATE="1398620765" ICON="">Ebook Criptografia e segurança de redes - William Stallings - Fórum do Guia do Hacker</A>
+            <DT><A HREF="http://n3vrax.wordpress.com/2011/07/23/des-algorithm-java-implementation/" ADD_DATE="1398690587" ICON="">DES Algorithm Java Implementation | N3vrax's Blog</A>
+            <DT><A HREF="http://stackoverflow.com/questions/3224240/recurrence-relation-solving-big-o-of-tn-1" ADD_DATE="1399422363" ICON="">big o - Recurrence Relation: Solving Big O of T(n-1) - Stack Overflow</A>
+            <DT><A HREF="http://nayuki.eigenstate.org/page/master-theorem-solver-javascript" ADD_DATE="1399425471" ICON="">Master theorem solver (JavaScript)</A>
+            <DT><A HREF="http://www.webupd8.org/2014/05/install-atom-text-editor-in-ubuntu-via-ppa.html" ADD_DATE="1399583307" ICON="">Install Atom Text Editor In Ubuntu Via PPA ~ Web Upd8: Ubuntu / Linux blog</A>
+            <DT><A HREF="http://jsfiddle.net/" ADD_DATE="1399653623" ICON="">Create a new fiddle - JSFiddle</A>
+            <DT><A HREF="http://jqueryui.com/autocomplete/" ADD_DATE="1399654726" ICON="">Autocomplete | jQuery UI</A>
+            <DT><A HREF="http://code.tutsplus.com/" ADD_DATE="1399667045" ICON="">Tuts+ Code Tutorials</A>
+            <DT><A HREF="http://pythonclub.com.br/" ADD_DATE="1400376584" ICON="">PythonClub //</A>
+            <DT><A HREF="http://www.phl3.ufscar.br/cgi-bin/wxis.exe?IsisScript=phl82.xis&cipar=phl82.cip&lang=por" ADD_DATE="1391537911" ICON="">BSo</A>
+            <DT><A HREF="https://developers.google.com/cast/docs/developers" ADD_DATE="1402868202" ICON="">Developers Guide - Google Cast — Google Developers</A>
+            <DT><A HREF="http://customelements.io/?fb_action_ids=10203052120956905&fb_action_types=og.likes" ADD_DATE="1402888644" ICON="">Custom Elements - A Web Components Gallery for Modern Web Apps</A>
+            <DT><A HREF="http://lifehacker.com/5983680/how-the-heck-do-i-use-github" ADD_DATE="1402966224" ICON="">How the Heck Do I Use GitHub?</A>
+            <DT><A HREF="https://help.github.com/categories/54/articles" ADD_DATE="1402966234" ICON="">GitHub Help</A>
+            <DT><A HREF="https://www.codeschool.com/courses/try-git" ADD_DATE="1402966240" ICON="">Try Git - Code School</A>
+            <DT><A HREF="https://help.github.com/articles/creating-pages-with-the-automatic-generator" ADD_DATE="1403148928" ICON="">Creating Pages with the automatic generator · GitHub Help</A>
+            <DT><A HREF="https://pages.github.com/" ADD_DATE="1403149080" ICON="">GitHub Pages</A>
+            <DT><A HREF="https://source.android.com/source/code-style.html" ADD_DATE="1403272297" ICON="">Code Style Guidelines for Contributors | Android Developers</A>
+            <DT><A HREF="https://developer.android.com/about/start.html" ADD_DATE="1403272485" ICON="">Get Started | Android Developers</A>
+            <DT><A HREF="http://www.asmallorange.com/hosting/shared/#tab-one" ADD_DATE="1403553033" ICON="">Fast Shared Web Hosting Plans - A Small Orange</A>
+            <DT><A HREF="http://imasters.com.br/artigo/22016/javascript/o-que-exatamente-e-o-nodejs/" ADD_DATE="1403570847" ICON="">O que exatamente é o Node.js? |</A>
+            <DT><A HREF="http://www.nodejs.org/" ADD_DATE="1403578940" ICON="">node.js</A>
+            <DT><A HREF="http://nodeschool.io/" ADD_DATE="1403616573" ICON="">nodeschool.io</A>
+            <DT><A HREF="http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js" ADD_DATE="1403616615" ICON="">javascript - How do I get started with Node.js - Stack Overflow</A>
+            <DT><A HREF="http://android-developers.blogspot.com.br/" ADD_DATE="1403726621" ICON="">Android Developers Blog</A>
+            <DT><A HREF="http://www.dhgate.com/store/product/10pcs-lot-4-pin-to-15pin-pc-power-to-sata/136158169.html" ADD_DATE="1403739612" ICON="">Cheap Power Cable - Best to 15pin Pc Power to Sata Converter Connector Online with $0.57/Piece | DHgate</A>
+            <DT><A HREF="https://www.google.com/webdesigner/" ADD_DATE="1403761133" ICON="">Google Web Designer</A>
+            <DT><A HREF="http://www.cs.rit.edu/~icss571/filling/special_cases.html" ADD_DATE="1403899740" ICON="">CG - Polygon Fill Teaching Tool</A>
+            <DT><A HREF="https://geoguessr.com/#more-maps" ADD_DATE="1404000666" ICON="">GeoGuessr - Let's explore the world!</A>
+            <DT><A HREF="https://www.khanacademy.org/computing/cs/programming-natural-simulations" ADD_DATE="1404096865" ICON="">Advanced JS: Natural Simulations | Computer programming | Khan Academy</A>
+            <DT><A HREF="https://pt.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-exponentiation" ADD_DATE="1404108852" ICON="">Exponenciação modular | Aritmética modular | Khan Academy</A>
+            <DT><A HREF="http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered" ADD_DATE="1404584041" ICON="">What is the best comment in source code you have ever encountered? - Stack Overflow</A>
+            <DT><A HREF="http://developer.android.com/samples/index.html?utm_source=udacity&utm_medium=mooc&utm_term=android&utm_content=L1_Welcome_Samples&utm_campaign=training" ADD_DATE="1404665789" ICON="">Samples | Android Developers</A>
+            <DT><A HREF="http://qt-project.org/" ADD_DATE="1404885598" ICON="">Qt Project</A>
+            <DT><A HREF="https://github.com/rogerwang/node-webkit" ADD_DATE="1404885855" ICON="">rogerwang/node-webkit · GitHub</A>
+            <DT><A HREF="https://github.com/rogerwang/node-webkit/wiki/List-of-apps-and-companies-using-node-webkit" ADD_DATE="1404885994" ICON="">List of apps and companies using node webkit · rogerwang/node-webkit Wiki · GitHub</A>
+            <DT><A HREF="http://foundation.zurb.com/" ADD_DATE="1404887719" ICON="">Foundation | The Most Advanced Responsive Front-end Framework from ZURB</A>
+            <DT><A HREF="http://bootswatch.com/" ADD_DATE="1404887730" ICON="">Bootswatch: Free themes for Bootstrap</A>
+            <DT><A HREF="http://purecss.io/" ADD_DATE="1404887777" ICON="">Pure</A>
+            <DT><A HREF="http://www.cs.ucdavis.edu/~amenta/w04/dis2.pdf" ADD_DATE="1404950390" ICON="">www.cs.ucdavis.edu/~amenta/w04/dis2.pdf</A>
+            <DT><A HREF="http://www.vivaolinux.com.br/dica/Instalando-Java-no-Ubuntu" ADD_DATE="1405544147" ICON="">Linux: Instalando Java no Ubuntu [Dica]</A>
+            <DT><A HREF="http://tableless.com.br/criando-um-aplicativo-simples-de-chat-com-firebase/" ADD_DATE="1405876382" ICON="">Criando um aplicativo simples de chat com Firebase | Tableless</A>
+            <DT><A HREF="https://www.firebase.com/docs/java-quickstart.html?utm_source=intercom&utm_medium=email&utm_term=android-signup&utm_campaign=intercom-signup" ADD_DATE="1405878970" ICON="">Java / Android Quickstart Guide | Firebase Documentation</A>
+            <DT><A HREF="http://www.cnet.com/news/microsoft-explains-quantum-computing-so-even-you-can-understand/" ADD_DATE="1406334326" ICON="">Microsoft explains quantum computing so even you can understand - CNET</A>
+            <DT><A HREF="http://www.zoho.com/mail/" ADD_DATE="1406538986" ICON="">Email Hosting | Hosted Email for Businesses - Zoho Mail</A>
+            <DT><A HREF="http://arduino.labdegaragem.com/" ADD_DATE="1406539427" ICON="">Arduino</A>
+            <DT><A HREF="http://www.polymer-project.org/tools/designer/" ADD_DATE="1406786492" ICON="">Designer Polymer</A>
+            <DT><A HREF="https://www.madewithcode.com/" ADD_DATE="1406791423" ICON="">Made with Code_Google</A>
+            <DT><A HREF="http://developer.telerik.com/featured/javascript-os-x-automation-example/" ADD_DATE="1412744867" ICON="">JavaScript for OS X Automation by Example -Telerik Developer Network</A>
+            <DT><A HREF="https://support.google.com/calendar/answer/178219?hl=en&ctx=tltp" ADD_DATE="1414979842" ICON="">Schedule events with guests using the "Find a time" feature - Calendar Help</A>
+            <DT><A HREF="https://developers.google.com/chart/interactive/docs/gallery/wordtree" ADD_DATE="1417472955" ICON="">Word Trees - Google Charts — Google Developers</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1374891736" LAST_MODIFIED="1417473088">CSF</H3>
+        <DL><p>
+            <DT><A HREF="http://www.e-dublin.com.br/procuracao-por-que-fazer/" ADD_DATE="1402983491" ICON="">Procuração – Por que fazer? | E-Dublin</A>
+            <DT><A HREF="http://book.tam.com.br/TAM/dyn/air/booking/upslDispatcher;jsessionid=exb95wGQEB1fkE9hKYQSseOEcA4RVlujxcPRlbOcc2DCv-jeXcmo!-234669883!-26287659" ADD_DATE="1400124344" ICON="">Seleção de Voos - TAM - Paixão por Voar e Servir</A>
+            <DT><A HREF="http://colleges.niche.com/university-of-illinois-at-urbana--champaign/campus-housing/" ADD_DATE="1398712892" ICON="">University of Illinois at Urbana-Champaign - Campus Housing - College Prowler</A>
+            <DT><A HREF="http://www.iie.org/Programs/Brazil-Scientific-Mobility/Apply-Now/Application-Instructions" ADD_DATE="1374891725" ICON="">Apply Now</A>
+            <DT><A HREF="http://www.englishexperts.com.br/forum/gramatica-do-ingles-guia-rapido-de-consulta-t7151.html?sid=345514a3f1c40f5c62cf033f60972866" ADD_DATE="1374899869" ICON="">Gramática do inglês: Guia rápido de consulta | Aprenda Inglês</A>
+            <DT><A HREF="http://www.fulbright.org/?inst_state" ADD_DATE="1374969143" ICON="">Institutional Members by State - Fulbright Association</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=znFbJCboKI8" ADD_DATE="1374972339" ICON="">Como eu aprendi inglês? - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=RqnILyRkQko" ADD_DATE="1374972347" ICON="">Ciências Sem Fronteiras - Cursos, Bolsa, Recepção e Amparo - YouTube</A>
+            <DT><A HREF="http://computacaosemfronteiras.wordpress.com/page/2/" ADD_DATE="1374972360" ICON="">Computação Sem Fronteiras | Blog pessoal de um Estudante de Ciência da Computação, que conta suas experiencias no programa Ciência sem Fronteiras do Governo Brasileiro</A>
+            <DT><A HREF="http://newjerseynewlife.blogspot.com.br/" ADD_DATE="1374972370" ICON="">Living in New Jersey</A>
+            <DT><A HREF="http://www.teclasap.com.br/" ADD_DATE="1374973697" ICON="">Tecla SAP :: Dicas de Inglês |</A>
+            <DT><A HREF="http://educationusa-cienciasemfronteiras.org/traducoes/" ADD_DATE="1374988277" ICON="">Traduções | EducationUSA - Ciência Sem Fronteiras</A>
+            <DT><A HREF="http://www.topuniversities.com/university-rankings/university-subject-rankings/2013/computer-science-and-information-systems" ADD_DATE="1374996037" ICON="">QS World University Rankings by Subject 2013 - Computer Science & Information Systems | Top Universities</A>
+            <DT><A HREF="http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings" ADD_DATE="1374996040" ICON="">Best Computer Science Programs | Top Computer Science Schools | US News Best Graduate Schools</A>
+            <DT><A HREF="http://www.shanghairanking.com/SubjectCS2012.html" ADD_DATE="1374996043" ICON="">Academic Ranking of World Universities in Computer Science - 2012 | 2012 Top 100 Universities in Computer Science | ARWU-SUBJECT 2012</A>
+            <DT><A HREF="http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/subject-ranking/subject/engineering-and-IT" ADD_DATE="1374996045" ICON="">Top 50 engineering & technology universities - Times Higher Education</A>
+            <DT><A HREF="http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/world-ranking/range/001-200" ADD_DATE="1374996048" ICON="">World University Rankings 2012-2013 - Times Higher Education</A>
+            <DT><A HREF="http://rustyswb.blogspot.com.br/2013/07/hey-you.html" ADD_DATE="1375065534" ICON="">Hey you!</A>
+            <DT><A HREF="http://www.americanexamservices.com/about-the-toefl/toefl-scores-usa-universities" ADD_DATE="1375209418" ICON="">TOEFL Scores- USA Universities | American Exam Services</A>
+            <DT><A HREF="http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/" ADD_DATE="1375325079" ICON="">Learning English - 6 Minute English</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=UV2sTEwjuIU" ADD_DATE="1375415044" ICON="">Todos os tempos verbais em Inglês fácil - Entendendo Inglês #3 - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=7GnhOnv3sww" ADD_DATE="1375508989" ICON="">Ciência Sem Fronteiras - UIUC - Turma Fall 2012 - FAQ 1 - YouTube</A>
+            <DT><A HREF="https://bigfuture.collegeboard.org/" ADD_DATE="1375552626" ICON="">BigFuture - Get Ready for College - College Planning, Financial Aid, Educator Resources</A>
+            <DT><A HREF="http://bealonghorn.utexas.edu/international/transfer/essays" ADD_DATE="1375597855" ICON="">DICAS ESSAY</A>
+            <DT><A HREF="http://www.cs.utexas.edu/undergraduate-program/curriculum/comparing-ba-and-bs-degrees" ADD_DATE="1375598031" ICON="">Comparing the BS, BA and BSA Degrees | Computer Science Department The University of Texas at Austin</A>
+            <DT><A HREF="http://www.cs.utexas.edu/sites/default/files/undergraduate/CS%20Concentration%20Areas.pdf" ADD_DATE="1375598372" ICON="">www.cs.utexas.edu/sites/default/files/undergraduate/CS Concentration Areas.pdf</A>
+            <DT><A HREF="http://www.cs.utexas.edu/undergraduate-program/academics/curriculum/courses#electives" ADD_DATE="1375598527" ICON="">Courses | Computer Science Department The University of Texas at Austin</A>
+            <DT><A HREF="http://pusatbahasa.org/pb/toefl_sample.html" ADD_DATE="1376266109" ICON="">Free TOEFL Sample</A>
+            <DT><A HREF="http://rustyswb.blogspot.com.br/2013/08/pre-common-app-parte-ii.html" ADD_DATE="1376358687" ICON="">Pre-Common App Parte II</A>
+            <DT><A HREF="http://www.cnpq.br/web/guest/view/-/journal_content/56_INSTANCE_0oED/10157/1075074" ADD_DATE="1376587122" ICON="">Cidades de Alto Custo</A>
+            <DT><A HREF="https://collegeprowler.com/" ADD_DATE="1376591076" ICON="">College Reviews by Students for Students - College Prowler</A>
+            <DT><A HREF="http://www.bu.edu/academics/bulletin/abbreviations-and-symbols/" ADD_DATE="1377410328" ICON="">Abbreviations and Symbols » Academics | Boston University</A>
+            <DT><A HREF="http://www.hotcourses.com.br/study/training-degrees/us-usa/full-time/bachelor-degree/computer-science-courses/loc/211/smode/1/slevel/12-2-3/cgory/e1-3/sin/ct/programs.html?dest1=211&eflrange=T,35,110" ADD_DATE="1377923010" ICON="">Cursos de Bacharelado em Ciência da Computação Computer Science nos EUA Período integral</A>
+            <DT><A HREF="http://www.petersons.com/" ADD_DATE="1379265994" ICON="">College Information - Peterson's - The Real Guide to Colleges and Universities</A>
+            <DT><A HREF="http://colleges.findthebest.com/" ADD_DATE="1379267406" ICON="">Best College Comparison - Rankings & Reviews | FindTheBest</A>
+            <DT><A HREF="http://www.jspell.com/public-spell-checker.html" ADD_DATE="1379823298" ICON="">Free Online Spell Checker - check any text (English, French, Spanish, German, Italian)</A>
+            <DT><A HREF="http://www.thefreedictionary.com/" ADD_DATE="1379823304" ICON="">Dictionary, Encyclopedia and Thesaurus - The Free Dictionary</A>
+            <DT><A HREF="http://cs.illinois.edu/research/research-areas/systems-and-networking" ADD_DATE="1379988785" ICON="">Systems and Networking | Department of Computer Science at Illinois</A>
+            <DT><A HREF="http://cs.illinois.edu/research/research-areas/graphics-visualization-and-hci" ADD_DATE="1379988791" ICON="">Graphics, Visualization, and HCI | Department of Computer Science at Illinois</A>
+            <DT><A HREF="http://cs.illinois.edu/research/research-areas/programming-languages-formal-systems-software-engineering" ADD_DATE="1379988795" ICON="">Programming Languages, Formal Systems, & Software Engineering | Department of Computer Science at Illinois</A>
+            <DT><A HREF="http://www.timeshighereducation.co.uk/world-university-rankings/2011-2012/top-400.html" ADD_DATE="1343321414" ICON="">Top 400 - The Times Higher Education World University Rankings 2011-2012</A>
+            <DT><A HREF="http://www.iie.org/Who-We-Are/News-and-Events/Press-Center/Press-Releases/2013/2013-08-20-Brazil-Summer-Internships-Scientific-Mobility-Program/Companies-Hosting-Brazil-SMP-Interns" ADD_DATE="1382936007" ICON="">Companies hosting students from Brazil as interns</A>
+            <DT><A HREF="http://travel.nationalgeographic.com/travel/national-parks/most-visited-parks-photos/#close-modal" ADD_DATE="1383850039" ICON="">10 Most Visited National Parks -- National Geographic</A>
+            <DT><A HREF="http://www.cs.washington.edu/education/courses/" ADD_DATE="1385869106" ICON="">Courses in Computer Science and Engineering | Computer Science & Engineering</A>
+            <DT><A HREF="https://docs.google.com/document/d/1WklgQ_mkaPB_X3tF6pWK_Gy_k6kABUoSY-lVh2BGs58/pub" ADD_DATE="1388203817" ICON="">Criar conta BB Américas</A>
+            <DT><A HREF="http://gabiwonderinginamerica.blogspot.com.br/2012/07/voce-usa-oculos.html" ADD_DATE="1388280488" ICON="">Wondering in America: Você usa óculos?</A>
+            <DT><A HREF="http://www.dell.com/us/p/xps-13-9333/pd?oc=dncwp1570h&model_id=xps-13-9333" ADD_DATE="1388368570" ICON="">XPS 13 Ultrabook™ with Optional Touch Screen Details | Dell</A>
+            <DT><A HREF="http://www.cs.washington.edu/students/ugrad/research/" ADD_DATE="1388369580" ICON="">Research Opportunities | Computer Science & Engineering</A>
+            <DT><A HREF="http://vivendonacalifornia.wordpress.com/2013/12/23/turistando-em-outros-pases-canad-parte-1/" ADD_DATE="1388682139" ICON="">Turistando em outros países… #Canadá (Parte 1) | Vivendo na Califórnia</A>
+            <DT><A HREF="https://nest.com/careers/nestling-internship-program/oY5SXfwC" ADD_DATE="1389656344" ICON="">Nestling Internship Program | Careers | Nest</A>
+            <DT><A HREF="http://ohana-em-ohio.blogspot.com.br/" ADD_DATE="1389756246" ICON="">Ohana em Ohio</A>
+            <DT><A HREF="http://www.internmatch.com/" ADD_DATE="1394171233" ICON="">Find Internships | Intern Jobs | Paid Internships</A>
+            <DT><A HREF="http://www.internships.com/" ADD_DATE="1394172096" ICON="">Internships – Internship Search and Intern Jobs | Internships.com</A>
+            <DT><A HREF="http://www.slugbooks.com/?rid=cj" ADD_DATE="1394600663" ICON="">Compare College Textbook Prices | Buy and Rent College Textbooks | SlugBooks</A>
+            <DT><A HREF="http://www.housing.illinois.edu/Future/Freshmen.aspx" ADD_DATE="1398743848" ICON="">Freshmen | University Housing at Illinois</A>
+            <DT><A HREF="http://www.icardnet.uillinois.edu/appPublicWebsite/" ADD_DATE="1398745415" ICON="">Home | i-card Programs</A>
+            <DT><A HREF="http://union.illinois.edu/shop/techzone" ADD_DATE="1398751983" ICON="">Tech Zone - Illini Union</A>
+            <DT><A HREF="http://www.housing.illinois.edu/Future/Incoming/Handouts.aspx" ADD_DATE="1398834674" ICON="">Handouts | University Housing at Illinois</A>
+            <DT><A HREF="http://ce.columbia.edu/summer" ADD_DATE="1399258802" ICON="">Columbia Summer | Columbia Summer</A>
+            <DT><A HREF="http://pt.delta.com/booking/priceItin.do?dispatchMethod=retrieveItin&cacheKey=INA00fXiWTu4wze1399771228606" ADD_DATE="1399771562" ICON="">Delta - Reserve um voo</A>
+            <DT><A HREF="https://pay.reddit.com/r/UIUC/wiki/index" ADD_DATE="1400170869" ICON="">index - UIUC</A>
+            <DT><A HREF="http://www.submarinoviagens.com.br/Passagens/selecionarvoo?Origem=GRU&Destino=ORD&Data=13/08/2014&Origem=ORD&Destino=GRU&Data=17/08/2014&Hora=&NumADT=1&NumCHD=0&NumINF=0&SomenteDireto=0&AffiliatedID=837&utm_source=baixou&utm_medium=motor_passagens&utm_campaign=GRU_ORD_13/08/2014&s_cid=baixou_motor_passagens_GRU_ORD_13/08/2014" ADD_DATE="1400359352" ICON="">Voo Copa</A>
+            <DT><A HREF="http://www.reddit.com/r/uiuc/wiki/guide" ADD_DATE="1400380370" ICON="">guide - UIUC</A>
+            <DT><A HREF="http://admissions.illinois.edu/tutorial/howtoregister/" ADD_DATE="1400993422" ICON="">How to Register for Classes, University of Illinois at Urbana-Champaign</A>
+            <DT><A HREF="http://www.isss.illinois.edu/students/incoming/" ADD_DATE="1400994574" ICON="">Incoming Students - International Student and Scholar Services - University of Illinois at Urbana-Champaign</A>
+            <DT><A HREF="http://www.sonic-center.org/" ADD_DATE="1402717888" ICON="">Home | Systems on Nanoscale Information Fabrics (SONIC) Center</A>
+            <DT><A HREF="http://www.lis.illinois.edu/academics/courses/catalog" ADD_DATE="1402717932" ICON="">Full Catalog | www.lis.illinois.edu</A>
+            <DT><A HREF="http://csl.illinois.edu/" ADD_DATE="1402718143" ICON="">Coordinated Science Lab, Illinois</A>
+            <DT><A HREF="http://csl.illinois.edu/events/csl-social-hour" ADD_DATE="1402718581" ICON="">CSL Social Hour | Coordinated Science Lab, Illinois - CSL Social Hour</A>
+            <DT><A HREF="https://code2040.cerebrotalent.com/code2040/ApplicantToolkit" ADD_DATE="1402965286" ICON="">Applicant Toolkit</A>
+            <DT><A HREF="http://www.cve.saude.sp.gov.br/htm/imuni/posto_fagve31.htm" ADD_DATE="1403110060" ICON="">POSTOS DE VACINAÇÃO CONTRA A FEBRE AMARELA</A>
+            <DT><A HREF="http://buyersguide.macrumors.com/#Mac" ADD_DATE="1403403118" ICON="">iPhone, iPad, Mac Buyer's Guide: Know When to Buy</A>
+            <DT><A HREF="https://www.google.com/about/careers/students/" ADD_DATE="1403844302" ICON="">Students - Google Careers</A>
+            <DT><A HREF="http://www.anvisa.gov.br/viajante/" ADD_DATE="1406054658" ICON="">www.anvisa.gov.br/viajante/</A>
+            <DT><A HREF="https://uofi.app.box.com/s/f4xumxaq7rygc9hzin7a/2/2232202339" ADD_DATE="1406496576" ICON="">Box | Simples Colaboração On-line: Armazenamento de Arquivos Online, Substituição FTP, Espaços de Trabalho de Equipe</A>
+            <DT><A HREF="http://www.hypershop.com/HyperJuice/1-5-External-Battery-for-MacBook-iPad-iPhone-USB/" ADD_DATE="1407050268" ICON="">HyperJuice 1.5 External Battery for Apple MacBook, iPad, iPhone, USB Devices</A>
+            <DT><A HREF="https://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qV49VfwN&cs=9VPaVfwz&nl=0&page=Apply&j=oTdgZfw5" ADD_DATE="1408512169" ICON="">Spotify Careers</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1374891572" LAST_MODIFIED="1417473088">IC</H3>
+        <DL><p>
+            <DT><A HREF="http://stackoverflow.com/questions/6921722/nfc-tags-and-password-protecting-and-unique-identifier" ADD_DATE="1393562422" ICON="">NFC tags and password protecting and unique identifier - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/6060312/how-do-you-read-the-unique-id-of-an-nfc-tag-on-android" ADD_DATE="1393562297" ICON="">how do you read the unique ID of an NFC tag on android? - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/2028482/write-data-to-specifc-tag" ADD_DATE="1393562019" ICON="">Write data to specifc tag - Stack Overflow</A>
+            <DT><A HREF="https://support.impinj.com/entries/30986356-Locking-Memory-on-EPC-RFID-Tags" ADD_DATE="1393561819" ICON="">Locking Memory on EPC RFID Tags : Impinj Support</A>
+            <DT><A HREF="http://stackoverflow.com/questions/6770774/getting-started-with-open-nfc-emulator" ADD_DATE="1374891551" ICON="">android - Getting started with Open NFC emulator - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11234263/open-nfc-simulator-usage" ADD_DATE="1374891586" ICON="">android - Open NFC Simulator Usage - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/11824711/how-install-the-open-nfc-add-on-in-my-android-sdk-environment" ADD_DATE="1374891591" ICON="">how Install the Open NFC Add-on in my Android SDK environment - Stack Overflow</A>
+            <DT><A HREF="http://open-nfc.org/wp/nfchal/simulator/" ADD_DATE="1374891714" ICON="">NFC Simulator | The Open NFC Project</A>
+            <DT><A HREF="http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html" ADD_DATE="1375219965" ICON="">Android Asset Studio</A>
+            <DT><A HREF="https://plus.google.com/104570711580136846518/posts/ZiZUwGZGAPq" ADD_DATE="1375228138" ICON="">John Hostile - Google+ - Here are the holo ( ICS ) blue hex color codes (and RGB…</A>
+            <DT><A HREF="https://code.google.com/p/ndef-tools-for-android/source/browse/ndeftools-util/src/org/ndeftools/util/activity/NfcBeamWriterActivity.java" ADD_DATE="1375251281" ICON="">NfcBeamWriterActivity.java - ndef-tools-for-android - NDEF Tools for Android - Google Project Hosting</A>
+            <DT><A HREF="http://www.color-hex.com/" ADD_DATE="1375251333" ICON="">Color Hex Color Codes</A>
+            <DT><A HREF="http://www.developer.com/ws/android/nfc-programming-in-android.html" ADD_DATE="1375251965" ICON="">NFC Programming in Android - Developer.com</A>
+            <DT><A HREF="http://developer.android.com/guide/topics/connectivity/nfc/index.html" ADD_DATE="1375251984" ICON="">Near Field Communication | Android Developers</A>
+            <DT><A HREF="http://www.framentos.com/en/android-tutorial/2012/07/31/write-hello-world-into-a-nfc-tag-with-a/" ADD_DATE="1375251989" ICON="">[***USANDO***] Tutorial: How to write "Hello World" into a NFC tag in Android.</A>
+            <DT><A HREF="http://www.creativebloq.com/android/getting-started-nfc-android-5122811" ADD_DATE="1387424571" ICON="">[***USANDO***] Get started with NFC Android | Android | Creative Bloq</A>
+            <DT><A HREF="http://www.tappednfc.com/wp-content/uploads/TAPPED-NFCDeveloperGuide-Part2.pdf" ADD_DATE="1393056139" ICON="">[***PARA USAR***]www.tappednfc.com/wp-content/uploads/TAPPED-NFCDeveloperGuide-Part2.pdf</A>
+            <DT><A HREF="http://www.tappednfc.com/android-nfc-developer-guide/" ADD_DATE="1375251991" ICON="">TAPPED Android NFC Developers Guide | Tapped NFC</A>
+            <DT><A HREF="http://www.wired.com/gadgetlab/2013/05/internet-of-things/" ADD_DATE="1375291157" ICON="">In the Programmable World, All Our Objects Will Act as One | Gadget Lab | Wired.com</A>
+            <DT><A HREF="http://codigoaberto.info/mobile/94-leitura-tags-nfc-com-android.html" ADD_DATE="1375823366" ICON="">Leitura de tags NFC com Android | Código Aberto</A>
+            <DT><A HREF="http://www.andrels.com/wp-en_US/2013/08/android-implementing-swipe-to-refresh-method/" ADD_DATE="1377834772" ICON="">Android – Implementing Swipe-to-refresh method « André L. S.</A>
+            <DT><A HREF="http://wiebe-elsinga.com/blog/fun-with-android-and-nfc/" ADD_DATE="1377835864" ICON="">Wiebe Elsinga » Fun with Android and NFC</A>
+            <DT><A HREF="http://www.itcuties.com/j2ee/axis2-wsdl2java-approach/" ADD_DATE="1378620834" ICON="">Axis2 WSDL2Java approach - Programmer's lounge</A>
+            <DT><A HREF="http://www.eclipse.org/articles/article.php?file=Article-EclipseDbWebapps/index.html" ADD_DATE="1379187338" ICON="">Eclipse Corner Article: Creating Database Web Applications with Eclipse</A>
+            <DT><A HREF="http://www.codeproject.com/Articles/112381/Step-by-Step-Method-to-Access-Webservice-from-Andr" ADD_DATE="1379608072" ICON="">Step by Step Method to Access Webservice from Android - CodeProject</A>
+            <DT><A HREF="http://www.w3schools.com/webservices/ws_intro.asp" ADD_DATE="1379608121" ICON="">Web Services Introduction - What is Web Services</A>
+            <DT><A HREF="http://www.wsdl2code.com/pages/home.aspx" ADD_DATE="1379608658" ICON="">Wsdl2Code Home</A>
+            <DT><A HREF="http://stackoverflow.com/questions/15600906/creating-web-service-for-android-application" ADD_DATE="1379611915" ICON="">xml - Creating Web Service for Android Application - Stack Overflow</A>
+            <DT><A HREF="http://developer.android.com/guide/faq/commontasks.html#addexternallibrary" ADD_DATE="1379611975" ICON="">Common Tasks and How to Do Them in Android | Android Developers</A>
+            <DT><A HREF="http://stackoverflow.com/questions/4321613/ksoap-2-android" ADD_DATE="1380643955" ICON="">kSOAP 2 Android - Stack Overflow</A>
+            <DT><A HREF="http://javafree.uol.com.br/topic-853569-Web-Services-via-J2SE-e-J2ME-utilizando-ksoap-e-kxml.html" ADD_DATE="1380644056" ICON="">Web Services via J2SE e J2ME utilizando ksoap e kxml - Javafree: O fórum de Java que mais cresce</A>
+            <DT><A HREF="http://www.devmedia.com.br/consumindo-webservices-em-aplicacoes-android/26866" ADD_DATE="1380645232" ICON="">Consumindo WebServices em aplicações Android</A>
+            <DT><A HREF="http://zbra.com.br/2011/03/30/consumindo-web-service-em-aplicacoes-android/" ADD_DATE="1380645779" ICON="">Consumindo Web Service em aplicações Android | ZBRA Soluções</A>
+            <DT><A HREF="http://www.c-sharpcorner.com/UploadFile/88b6e5/how-to-call-web-service-in-android-using-soap/" ADD_DATE="1380645819" ICON="">How to Call Web Service in Android Using SOAP</A>
+            <DT><A HREF="http://www.guj.com.br/java/264022-consumir-webservice-com-android-resolvido" ADD_DATE="1380645855" ICON="">Consumir webservice com Android [RESOLVIDO]</A>
+            <DT><A HREF="http://codeoncloud.blogspot.com.br/2013/06/android-java-soap-web-service-access.html" ADD_DATE="1380645918" ICON="">Android soap web service access using ksoap2 (Handlers) | Code On Cloud</A>
+            <DT><A HREF="http://dcbasso.blogspot.com.br/2011/03/consumindo-webservices-com-android-sem.html" ADD_DATE="1380645922" ICON="">Mobile Developer: Consumindo WebServices com Android, sem utilização de Bibliotecas</A>
+            <DT><A HREF="http://www.cesar.org.br/site/utilizando-web-services-em-android/" ADD_DATE="1380645926" ICON="">Utilizando Web Services em Android | C.E.S.A.R - Centro de Estudos e Sistemas Avançados do Recife</A>
+            <DT><A HREF="http://www.cesar.org.br/site/files/file/WM23_Android_WebServices.pdf" ADD_DATE="1380645938" ICON="">www.cesar.org.br/site/files/file/WM23_Android_WebServices.pdf</A>
+            <DT><A HREF="http://en.wikipedia.org/wiki/Electronic_Product_Code" ADD_DATE="1380728284" ICON="">Electronic Product Code - Wikipedia, the free encyclopedia</A>
+            <DT><A HREF="http://www.zebra.com/us/en/solutions/getting-started/rfid-printing-encoding/epc-rfid-technology.html" ADD_DATE="1381778054" ICON="">EPC RFID Technology</A>
+            <DT><A HREF="http://en.wikipedia.org/wiki/Radio-frequency_identification" ADD_DATE="1382318910" ICON="">Radio-frequency identification - Wikipedia, the free encyclopedia</A>
+            <DT><A HREF="http://www.gs1.org/aboutepc" ADD_DATE="1382318917" ICON="">About EPC | GS1 - The global language of business</A>
+            <DT><A HREF="http://www.gs1.org/barcodes/implementation#1" ADD_DATE="1382329715" ICON="">Implementation | BarCodes & Identification | Products & Solutions | GS1 - The global language of business</A>
+            <DT><A HREF="http://it-ebooks.info/" ADD_DATE="1375823230" ICON="">IT eBooks - Free Download - Big Library</A>
+            <DT><A HREF="http://thenextweb.com/insider/2013/05/19/the-internet-of-things-in-action/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TheNextWeb+(The+Next+Web+All+Stories)&utm_content=FaceBook" ADD_DATE="1368942992" ICON="">The Internet of Things: In action - The Next Web</A>
+            <DT><A HREF="http://carledwinj.wordpress.com/2013/07/10/criando-web-service-e-web-service-client-com-jax-ws-passo-a-passo/" ADD_DATE="1385614969" ICON="">Criando Web Service e Web Service-Client com JAX-WS passo a passo | carledwin & Java</A>
+            <DT><A HREF="http://javasimples.com.br/2010/06/web-services-de-um-jeito-bem-simples/" ADD_DATE="1385620092" ICON="">Web Services de um jeito bem simples | Java Simples</A>
+            <DT><A HREF="http://blog.caelum.com.br/screencast-sua-app-no-cloud-com-openshift/" ADD_DATE="1385947573" ICON="">Screencast: sua App no Cloud com OpenShift | blog.caelum.com.br</A>
+            <DT><A HREF="https://www.openshift.com/" ADD_DATE="1385947586" ICON="">OpenShift by Red Hat</A>
+            <DT><A HREF="http://www.emersonbarros.com.br/ksoap-2-consumindo-webservice-com-android/" ADD_DATE="1385953923" ICON="">kSOAP 2 - Consumindo Webservice com Android | EmersonBarros</A>
+            <DT><A HREF="https://groups.google.com/forum/#!topic/android-developers/mlTIuQ5faRk" ADD_DATE="1385958184" ICON="">VER ESSE!!! >>> Consumir WebService com KSOAP2 - Grupos do Google</A>
+            <DT><A HREF="http://www.guj.com.br/java/271042-consumir-webservice-com-ksoap2" ADD_DATE="1385958284" ICON="">VER ESSE TBM!! >> Consumir WebService com KSOAP2</A>
+            <DT><A HREF="http://www.iotbrasil.com.br/panorama-de-iot-veja-os-slides-das-apresentacoes-do-dia-27-de-novembro-de-2013-no-cti-campinas/" ADD_DATE="1386771318" ICON="">Panorama de IoT – veja os slides das apresentações do dia 27 de novembro de 2013, no CTI – Campinas | IoT Brasil</A>
+            <DT><A HREF="http://stackoverflow.com/questions/4680870/calling-net-web-service-from-android-not-working" ADD_DATE="1387086466" ICON="">calling .net web service from android not working - Stack Overflow</A>
+            <DT><A HREF="http://www.webofthings.org/2012/08/19/nfc-qr-epc-and-android/" ADD_DATE="1387420500" ICON="">NFC, QR, EPC and Android: Ready to Tag the World! | Web of Things</A>
+            <DT><A HREF="http://www.webofthings.org/" ADD_DATE="1387422956" ICON="">Web of Things</A>
+            <DT><A HREF="https://evrythng.com/" ADD_DATE="1387422961" ICON="">EVRYTHNG</A>
+            <DT><A HREF="https://code.google.com/p/fosstrak/" ADD_DATE="1387423456" ICON="">fosstrak - Open Source RFID Platform - Google Project Hosting</A>
+            <DT><A HREF="http://www.slideshare.net/androidsNsheep/better-with-friends-androidnfcarduino" ADD_DATE="1387424512" ICON="">Better With Friends: Android+NFC+Arduino</A>
+            <DT><A HREF="http://open-nfc.org/wp/editions/android/#overview" ADD_DATE="1387429350" ICON="">Android Edition | The Open NFC Project</A>
+            <DT><A HREF="http://stackoverflow.com/questions/5669833/can-nfc-tags-be-protected-from-being-over-written/5934619#5934619" ADD_DATE="1387431864" ICON="">can nfc tags be protected from being over-written? - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/search?q=android+read+nfc+tag" ADD_DATE="1387431869" ICON="">Posts containing 'android read nfc tag' - Stack Overflow</A>
+            <DT><A HREF="http://developer.android.com/design/building-blocks/tabs.html" ADD_DATE="1389507174" ICON="">Tabs | Android Developers</A>
+            <DT><A HREF="http://android.programmerguru.com/android-webservice-example/#" ADD_DATE="1390870192" ICON="">Android Webservice example | Android Tutorial</A>
+            <DT><A HREF="http://www.guj.com.br/java/265286-ajuda-em-exemplo-de-webservice-em-android-resolvido" ADD_DATE="1390870455" ICON="">Ajuda em exemplo de WebService em Android [RESOLVIDO]</A>
+            <DT><A HREF="http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/" ADD_DATE="1390870510" ICON="">Android Login and Registration with PHP, MySQL and SQLite</A>
+            <DT><A HREF="http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/" ADD_DATE="1391450055" ICON="">Android SQLite Database Tutorial</A>
+            <DT><A HREF="http://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef" ADD_DATE="1391472397" ICON="">About the NDEF Format | Adafruit PN532 RFID/NFC Breakout and Shield | Adafruit Learning System</A>
+            <DT><A HREF="http://stackoverflow.com/questions/19332033/how-can-i-access-my-localhost-through-android-phone" ADD_DATE="1392101510" ICON="">How can i access my localhost through android phone - Stack Overflow</A>
+            <DT><A HREF="http://www.eclipse.org/webtools/community/tutorials/BottomUpAxis2WebService/bu_tutorial.html" ADD_DATE="1392872657" ICON="">Creating Bottom Up Web Service via Apache Axis2</A>
+            <DT><A HREF="http://stackoverflow.com/questions/4416798/ksoap-on-android-get-a-list-response-from-a-java-web-service" ADD_DATE="1392874370" ICON="">Ksoap on android-- get a list response from a java web service - Stack Overflow</A>
+            <DT><A HREF="http://www.devmedia.com.br/android-criando-um-listview-customizado/26260" ADD_DATE="1392876997" ICON="">Android: Criando um ListView Customizado</A>
+            <DT><A HREF="http://stackoverflow.com/questions/19075731/parse-data-from-soap-response-in-android" ADD_DATE="1392880340" ICON="">Parse data from SOAP response in Android - Stack Overflow</A>
+            <DT><A HREF="http://developer.android.com/guide/topics/ui/dialogs.html#ProgressDialog" ADD_DATE="1392883798" ICON="">Dialogs | Android Developers</A>
+            <DT><A HREF="http://stackoverflow.com/questions/14570157/altering-data-types-within-a-table-using-sql-command-alter" ADD_DATE="1392887155" ICON="">netbeans - Altering data types within a table using SQL command ALTER - Stack Overflow</A>
+            <DT><A HREF="http://www.thesauruslex.com/typo/eng/enghtml.htm" ADD_DATE="1392920658" ICON="">HTML encoding of foreign language characters</A>
+            <DT><A HREF="http://erikasarti.net/html/acentuacao-caracteres-especiais/" ADD_DATE="1392920662" ICON="">Tabela de Acentuação e Caracteres Especiais em HTML</A>
+            <DT><A HREF="http://stackoverflow.com/questions/6972295/switching-activities-without-animation" ADD_DATE="1393061633" ICON="">switching activities without animation - Stack Overflow</A>
+            <DT><A HREF="http://www.techrepublic.com/blog/google-in-the-enterprise/google-app-engine-taking-the-cloud-to-the-next-level/" ADD_DATE="1393063279" ICON="">Google App Engine: Taking the cloud to the next level - TechRepublic</A>
+            <DT><A HREF="http://stackoverflow.com/questions/6377278/how-to-compare-current-time-with-time-range" ADD_DATE="1393105624" ICON="">java - How to compare current time with time range? - Stack Overflow</A>
+            <DT><A HREF="http://stackoverflow.com/questions/5910931/reading-the-tag-uid-of-mifare-classic-card" ADD_DATE="1396221910" ICON="">android - Reading the tag UID of Mifare classic card - Stack Overflow</A>
+            <DT><A HREF="http://android-ui-utils.googlecode.com/hg/asset-studio/dist/device-frames.html" ADD_DATE="1396297559" ICON="">Android Asset Studio - Device Frame Generator</A>
+            <DT><A HREF="http://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc.html" ADD_DATE="1405756196" ICON="">Advanced NFC | Android Developers</A>
+            <DT><A HREF="http://issuu.com/profarrabal/docs/abnt_fontes?e=3133089/2719467#search" ADD_DATE="1407128196" ICON="">ISSUU - Indicação de Fontes by Alejandro Knaesel Arrabal</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1407979129" LAST_MODIFIED="1417473088">Músicas</H3>
+        <DL><p>
+            <DT><A HREF="http://www.ciframelodica.com.br/musicas/?musica=962" ADD_DATE="1398972643" ICON="">Cifra Melódica - Lucky Jason Mraz para flauta clarinete sax violino</A>
+            <DT><A HREF="http://m.letras.mus.br/barao-vermelho/128002/" ADD_DATE="1389338053" ICON="">Barão Vermelho | Letras.mus.br</A>
+            <DT><A HREF="http://chucktv.net/music/" ADD_DATE="1342060849" ICON="">Music | ChuckTV.net | Chuck season 5 news, spoilers, interviews, exclusives</A>
+            <DT><A HREF="http://www.vagalume.com.br/u2/" ADD_DATE="1346646857" ICON="">U2 - VAGALUME</A>
+            <DT><A HREF="http://freeplaymusic.com/" ADD_DATE="1378423323" ICON="">Freeplay Music, Broadcast Production Music Library, Free and Mp3 Music Downloads, See Usage Terms.</A>
+            <DT><A HREF="http://letras.mus.br/weezer/42573/traducao.html" ADD_DATE="1355933089" ICON="">ISLAND IN THE SUN (TRADUÇÃO) - Weezer (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/beastie-boys/3454/traducao.html" ADD_DATE="1355960725" ICON="">FIGHT FOR YOUR RIGHT (TRADUÇÃO) - Beastie Boys (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/kings-of-leon/920080/traducao.html" ADD_DATE="1356182277" ICON="">ON CALL (TRADUÇÃO) - Kings Of Leon (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/lily-allen/1414964/traducao.html" ADD_DATE="1356237603" ICON="">NOT FAIR (TRADUÇÃO) - Lily Allen (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/nando-reis/1491960/" ADD_DATE="1356285640" ICON="">PRA VOCÊ GUARDEI O AMOR - Nando Reis (letra e vídeo)</A>
+            <DT><A HREF="https://www.google.com.br/search?q=Let%27s+Dance+To+Joy+Division+by+The+Wombats&rlz=1C1LENN_enBR472BR472&oq=Let%27s+Dance+To+Joy+Division+by+The+Wombats&aqs=chrome.0.57&sugexp=chrome,mod=5&sourceid=chrome&ie=UTF-8" ADD_DATE="1356375169" ICON="">let's dance to joy division by the wombats - Pesquisa Google</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=FRTUakUabTs" ADD_DATE="1356697372" ICON="">Coldplay - How You See The World - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=EmIgnrAt_rA" ADD_DATE="1356697856" ICON="">Crests Of Waves - coldplay - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/eminem/12714/traducao.html" ADD_DATE="1357132267" ICON="">THE REAL SLIM SHADY (TRADUÇÃO) - Eminem (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/oasis/63270/" ADD_DATE="1357132498" ICON="">STOP CRYING YOUR HEART OUT - Oasis (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/phantom-planet/697303/" ADD_DATE="1357133155" ICON="">CALIFORNIA HERE WE COME - Phantom Planet (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/train/40685/" ADD_DATE="1357169023" ICON="">DROPS OF JUPITER - Train (letra e vídeo)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=60cvtxwlJr8&feature=etp-pd-rwd" ADD_DATE="1357361517" ICON="">LANA DEL REY - '"NATIONAL ANTHEM" (OFFICIAL VIDEO) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/the-klaxons/806621/traducao.html" ADD_DATE="1357513522" ICON="">IT'S NOT OVER YET (TRADUÇÃO) - The Klaxons (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/arctic-monkeys/354286/traducao.html" ADD_DATE="1357515547" ICON="">Arctic Monkeys - Mardy Bum</A>
+            <DT><A HREF="http://letras.mus.br/green-day/101227/traducao.html" ADD_DATE="1357588752" ICON="">BOULEVARD OF BROKEN DREAMS (TRADUÇÃO) - Green Day (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/plan-b/1657545/traducao.html" ADD_DATE="1357608626" ICON="">SHE SAID (TRADUÇÃO) - Plan B (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/gwen-stefani/107932/traducao.html" ADD_DATE="1358051549" ICON="">WHAT YOU WAITING FOR? (TRADUÇÃO) - Gwen Stefani (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/newton-faulkner/1059990/traducao.html" ADD_DATE="1358090973" ICON="">DREAM CATCH ME (TRADUÇÃO) - Newton Faulkner (letra e vídeo)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=bazz7A_tD0g" ADD_DATE="1358569051" ICON="">Jon Hopkins - Light Through The Veins (Full 9 Minute HQ Version) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=kBqWtdMpies" ADD_DATE="1358723213" ICON="">Fort Atlantic - Let Your Heart Hold Fast Official Lyric Video - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=-oqAU5VxFWs" ADD_DATE="1358732206" ICON="">Counting Crows - Mr. Jones - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=17ozSeGw-fY" ADD_DATE="1359077971" ICON="">Calvin Harris - Sweet Nothing ft. Florence Welch - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/john-mayer/25042/#mais-acessadas/1287882/" ADD_DATE="1359168045" ICON="">03:21 · John Mayer - Free Fallin'</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=SSbBvKaM6sk" ADD_DATE="1359672628" ICON="">Blur - Song 2 - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=NFbpKOsNwXA" ADD_DATE="1359735454" ICON="">Drew Holcomb & The Neighbors - What Would I Do Without You - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/carina-round/1519172/traducao.html" ADD_DATE="1359856796" ICON="">01:59 · Carina Round - For Everything a Reason</A>
+            <DT><A HREF="http://letras.mus.br/jason-mraz/1998108/" ADD_DATE="1360109430" ICON="">Jason Mraz - 93 Million Miles</A>
+            <DT><A HREF="http://letras.mus.br/pink/80752/traducao.html" ADD_DATE="1361425348" ICON="">GET THE PARTY STARTED (TRADUÇÃO) - Pink (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/james-morrison/749144/" ADD_DATE="1361426169" ICON="">YOU GIVE ME SOMETHING - James Morrison (letra e vídeo)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=rtOvBOTyX00" ADD_DATE="1362019709" ICON="">Christina Perri - A Thousand Years (Official Music Video) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/rascal-flatts/" ADD_DATE="1362717826" ICON="">Rascal Flatts | Letras.mus.br (201 músicas)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=ghb6eDopW8I" ADD_DATE="1362718051" ICON="">Of Monsters and Men - Little Talks - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/of-monsters-and-men/" ADD_DATE="1362718130" ICON="">Of Monsters and Men | Letras.mus.br (29 músicas)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=OpQFFLBMEPI" ADD_DATE="1363234496" ICON="">P!nk - Just Give Me A Reason ft. Nate Ruess - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/phillip-phillips/home/traducao.html" ADD_DATE="1363550448" ICON="">01:12 · Phillip Phillips - Home</A>
+            <DT><A HREF="http://letras.mus.br/doves/1436470/" ADD_DATE="1363568573" ICON="">KINGDOM OF RUST - Doves (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/the-droge-summers-blend/1718574/" ADD_DATE="1363569548" ICON="">TWO OF THE LUCKY ONES - The Droge & Summers Blend (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/nevilton/1635792/" ADD_DATE="1363753419" ICON="">O MORNO - Nevilton (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/two-door-cinema-club/" ADD_DATE="1363837621" ICON="">Two Door Cinema Club | Letras.mus.br (67 músicas)</A>
+            <DT><A HREF="http://letras.mus.br/canastra/1047853/" ADD_DATE="1364171011" ICON="">CHEGA DE FALSAS PROMESSAS - Canastra (letra e vídeo)</A>
+            <DT><A HREF="http://nacaodamusica.terra.com.br/br/vclipe/matchbox-twenty-lanca-videoclipe-do-novo-single-shes-so-mean/" ADD_DATE="1343869383" ICON="">Matchbox Twenty lança videoclipe do novo single “She’s So Mean” | Nação da Música</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=1SZrJLMTO-8&feature=branded" ADD_DATE="1339118486" ICON="">Slash - You're a Lie ft. Myles Kennedy, The Conspirators - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=bVRrwYghVqs" ADD_DATE="1344140460" ICON="">Gotye feat. Kimbra vs Avicii - Levels That I Used To Know (Snobs Mashup) - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/eric-turner/dancing-in-my-head-feat-avicii.html#play:gOa07NIkW7U:3ade68b6gdc8afda3" ADD_DATE="1344657776" ICON="">Dancing In My Head (feat. Avicii) - Eric Turner - VAGALUME</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=a01QQZyl-_I" ADD_DATE="1344745387" ICON="">Queen - 'Under Pressure' - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=4lc1_B9UF90" ADD_DATE="1344745468" ICON="">Lil Wayne - How To Love (Legendado) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=8gyLR4NfMiI" ADD_DATE="1344745774" ICON="">Chris Brown - Look At Me Now ft. Lil Wayne, Busta Rhymes - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/parachute-va/forever-and-always.html" ADD_DATE="1342057393" ICON="">Forever and Always - Parachute - VAGALUME</A>
+            <DT><A HREF="http://letras.terra.com.br/the-beatles/197/traducao.html" ADD_DATE="1336700174" ICON="">01:30 · The Beatles - Yellow Submarine</A>
+            <DT><A HREF="http://www.vagalume.com.br/example/say-nothing.html#play:HdoP2UmnEBM:3ade68b6g3f8afda3:BIG" ADD_DATE="1344912653" ICON="">Say Nothing - Example</A>
+            <DT><A HREF="http://www.vagalume.com.br/mika/celebrate-feat-pharrell-williams.html#play:sIBXTHB0QDw:3ade68b6g3b9afda3:BIG" ADD_DATE="1344913871" ICON="">Celebrate (feat. Pharrell Williams) - Mika</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=FG1NrQYXjLU" ADD_DATE="1335716558" ICON="">Billy Idol - Dancing With Myself - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=pZ3cTwI9bIw&feature=related" ADD_DATE="1344916810" ICON="">She & Him - In The Sun (2010) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/calvin-harris/1930095/traducao.html" ADD_DATE="1345082287" ICON="">Calvin Harris - Feel So Close</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=HquHxVxhSWo&feature=related" ADD_DATE="1337313201" ICON="">Coldplay live in Portland - incredible opener - Hurts Like Heaven / In My Place - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/snow-patrol/called-out-in-the-dark.html" ADD_DATE="1345083311" ICON="">Called Out In The Dark - Snow Patrol - VAGALUME</A>
+            <DT><A HREF="http://letras.mus.br/mika/1919108/" ADD_DATE="1345140504" ICON="">Mika - Elle Me Dit</A>
+            <DT><A HREF="http://nacaodamusica.terra.com.br/br/noticias/kelly-clarkson-faz-cover-de-wide-awake-em-seu-show/" ADD_DATE="1343356923" ICON="">Kelly Clarkson faz cover de “Wide Awake” em seu show | Nação da Música</A>
+            <DT><A HREF="http://www.youtube.com/watch?feature=player_embedded&v=mk48xRzuNvA" ADD_DATE="1346099400" ICON="">The Script - Hall of Fame ft. will.i.am - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/the-arcade-fire/" ADD_DATE="1346646857" ICON="">Arcade Fire - VAGALUME</A>
+            <DT><A HREF="http://www.vagalume.com.br/stereophonics/" ADD_DATE="1346646857" ICON="">Stereophonics - VAGALUME</A>
+            <DT><A HREF="http://www.vagalume.com.br/system-of-a-down/" ADD_DATE="1346646857" ICON="">System of a Down - VAGALUME</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=gS9o1FAszdk" ADD_DATE="1346646857" ICON="">YouTube - The Script - The Man Who Can't Be Moved</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=SBjQ9tuuTJQ" ADD_DATE="1346646857" ICON="">YouTube - Foo Fighters - The Pretender</A>
+            <DT><A HREF="http://www.vagalume.com.br/foo-fighters/best-of-you.html" ADD_DATE="1346646857" ICON="">04:00 ▸ Best of You - Foo Fighters</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=BXpdmKELE1k&ob=av2e" ADD_DATE="1346646857" ICON="">Swedish House Mafia - Save The World (Official Music Video) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=PruivjE85WA&feature=related" ADD_DATE="1346646857" ICON="">Black Eyed Peas - Miss You Fashion Rocks 2008.avi - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/snow-patrol/this-isnt-everything-you-are.html#play:Q-Gljs8Y3Q8:3ade68b6gef51fda3:BIG" ADD_DATE="1346646857" ICON="">02:24 ▸ This Isn't Everything You Are - Snow Patrol</A>
+            <DT><A HREF="http://www.vagalume.com.br/neon-trees/everybody-talks.html#play:X5G9tIe84lE:3ade68b6gd906fda3:BIG" ADD_DATE="1346646857" ICON="">03:11 ▸ Everybody Talks - Neon Trees</A>
+            <DT><A HREF="http://www.vagalume.com.br/coldplay/charlie-brown-david-aude-remix.html#play:sINiFJNXr-o:3ade68b6gf016fda3" ADD_DATE="1346646857" ICON="">Charlie Brown (David Audé Remix) - Coldplay - VAGALUME</A>
+            <DT><A HREF="http://nacaodamusica.com/noticias/the-maine-lanca-novo-album-em-dezembro-escute-uma-previa-do-novo-single/" ADD_DATE="1346646857" ICON="">The Maine lança novo álbum em dezembro; escute uma prévia do novo single – Nação da Música - É Você quem faz</A>
+            <DT><A HREF="http://rafabarbosa.com/511/" ADD_DATE="1359600883" ICON="">Weezer! | Sem título ainda...</A>
+            <DT><A HREF="http://www.vagalume.com.br/yellowcard/for-you-and-your-denial.html#play:3zRy4RCadL8" ADD_DATE="1359600883" ICON="">For You, and Your Denial - Yellowcard - VAGALUME</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=VL4y5bl0ZgA" ADD_DATE="1355539482" ICON="">Rihanna - Jump [Lyric Video] - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=1y6smkh6c-0" ADD_DATE="1359672783" ICON="">Don't You Worry Child (Live) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/vivendo-do-ocio/nostalgia/#selecoes/1196520/" ADD_DATE="1367851846" ICON="">04:08 · Vivendo do Ócio - Fora Mônica!</A>
+            <DT><A HREF="http://letras.mus.br/the-shins/simple-song/" ADD_DATE="1368574268" ICON="">The Shins - Simple Song</A>
+            <DT><A HREF="http://letras.mus.br/5-seco/" ADD_DATE="1368586013" ICON="">5 à Seco | Letras.mus.br (34 músicas)</A>
+            <DT><A HREF="http://letras.mus.br/empire-of-the-sun/alive/" ADD_DATE="1368979850" ICON="">Empire Of The Sun - Alive</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=TGx0rApSk6w" ADD_DATE="1365204249" ICON="">OneRepublic - If I Lose Myself - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=-zzP29emgpg" ADD_DATE="1365300240" ICON="">Drake - Take Care ft. Rihanna - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/two-door-cinema-club/1993758/traducao.html" ADD_DATE="1366211903" ICON="">03:34 · Two Door Cinema Club - Sleep Alone</A>
+            <DT><A HREF="http://letras.mus.br/the-beatles/241/" ADD_DATE="1367538610" ICON="">03:23 · The Beatles - Oh! Darling</A>
+            <DT><A HREF="http://letras.mus.br/aerosmith/what-could-have-been-love/" ADD_DATE="1369624927" ICON="">01:32 · Aerosmith - What Could Have Been Love</A>
+            <DT><A HREF="http://letras.mus.br/aerosmith/what-could-have-been-love/#selecoes/871/" ADD_DATE="1369625162" ICON="">03:47 · Aerosmith - Crazy</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=5NV6Rdv1a3I" ADD_DATE="1370156172" ICON="">Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=5vghsOuN2iY" ADD_DATE="1370156550" ICON="">Daft Punk feat. Pharrell Williams & Nile Rodgers - Get Lucky (M:Hand Remix) - YouTube</A>
+            <DT><A HREF="http://seismusicas.tumblr.com/" ADD_DATE="1372040106" ICON="">Seis Músicas</A>
+            <DT><A HREF="http://universalmusic.com.br/folk-se/" ADD_DATE="1373086491" ICON="">FOLK-SE</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=iZq3i94mSsQ" ADD_DATE="1373484075" ICON="">Kiss - Detroit Rock City - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?feature=player_embedded&v=RqTsUtQLRFk#at=164" ADD_DATE="1373755815" ICON="">Franz Ferdinand - Right Action (Official Video) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=tFMFnZyWIW4" ADD_DATE="1373761728" ICON="">Justin Timberlake - Take Back The Night (Audio) - YouTube</A>
+            <DT><A HREF="http://www.vevo.com/watch/of-monsters-and-men/vevo-go-shows-brasil-little-talks/USUV71301333?syndicationid=bb8a16ab-1279-4f17-969b-1dba5eb60eda&shortlink=r35TVU&country=BR&referralurl=http%3a%2f%2fwww.youtube.com%2fwatch%3ffeature%3dplayer_embedded%26v%3dRqTsUtQLRFk" ADD_DATE="1373764481" ICON="">VEVO GO Shows Brasil: Little Talks - Of Monsters and Men</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=1OQeLlwwGVY" ADD_DATE="1375311187" ICON="">Vandaveer - However Many Takes It Takes - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/imagine-dragons/tiptoe/" ADD_DATE="1375483146" ICON="">TIPTOE - Imagine Dragons (letra e vídeo)</A>
+            <DT><A HREF="http://letras.mus.br/rihanna/stay-feat-mikky-ekko/" ADD_DATE="1375556854" ICON="">04:02 · Rihanna - Stay (feat. Mikky Ekko)</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=Im8zYhFB0JA#at=22" ADD_DATE="1376592646" ICON="">Churchill - Change - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=5nT0g887ShE" ADD_DATE="1378617589" ICON="">▶ Diplo & GTA - Boy Oh Boy - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=I4bouSm4RXQ" ADD_DATE="1379044939" ICON="">▶ Of Monsters & Men Vs Imagine Dragons - Time For Our Little Talks (Kill_mR_DJ MashUp) - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/calvin-harris/i-need-your-love-feat-ellie-goulding-traducao.html" ADD_DATE="1379124912" ICON="">I Need Your Love (feat. Ellie Goulding) (tradução) - Calvin Harris - VAGALUME</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=JMfJLkDVJZg" ADD_DATE="1379137433" ICON="">Icona Pop - I Love It (feat. Charli XCX) (Steven Redant '90s Bitch Cub Mix) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/avicii/wake-me-up-feat-aloe-blacc/" ADD_DATE="1379138956" ICON="">WAKE ME UP (FEAT. ALOE BLACC) - Avicii (letra e vídeo)</A>
+            <DT><A HREF="http://www.vagalume.com.br/news/2013/09/18/30-seconds-to-mars-faz-cover-de-stay-de-rihanna.html" ADD_DATE="1379508511" ICON="">30 Seconds To Mars faz cover de "Stay", de Rihanna - Vagalume</A>
+            <DT><A HREF="http://www.whosampled.com/Coldplay/?sp=1" ADD_DATE="1379648579" ICON="">Coldplay | WhoSampled</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=8BGbeDb5VIk" ADD_DATE="1380160878" ICON="">Vienna - Billy Joel (lyrics) - YouTube</A>
+            <DT><A HREF="https://soundcloud.com/davidguetta/david-guetta-dj-mix-165" ADD_DATE="1381344658" ICON="">David Guetta DJ MIX #165 by David Guetta on SoundCloud - Hear the world’s sounds</A>
+            <DT><A HREF="http://letras.mus.br/jake-bugg/" ADD_DATE="1381371218" ICON="">Jake Bugg | Letras.mus.br (61 músicas)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=zH4Ia3dCvsc&feature=share" ADD_DATE="1382290170" ICON="">Kings Of Leon - Temple</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=uj5x1IUWS6k" ADD_DATE="1382316891" ICON="">Matthew Schuler Cough Syrup The Voice Performance</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=ub36ffWAqgQ" ADD_DATE="1346646857" ICON="">YouTube - Phoenix - If I Ever Feel Better (Clip)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=FOjdXSrtUxA" ADD_DATE="1382666594" ICON="">Ed Sheeran - Give Me Love [Official Video]</A>
+            <DT><A HREF="http://letras.mus.br/party-ben/1833256/traducao.html" ADD_DATE="1383059522" ICON="">EVERY CAR YOU CHASE (TRADUÇÃO) - Party Ben | Letras.mus.br</A>
+            <DT><A HREF="http://letras.mus.br/the-national/" ADD_DATE="1383452319" ICON="">The National | Letras.mus.br (162 músicas)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=6mo59IyQbro" ADD_DATE="1383453691" ICON="">Yann Tiersen, Goodbye Lenin</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=zP50Ewh31E4" ADD_DATE="1383455942" ICON="">Alex Clare - Too Close</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=u0KWMtL9MV8" ADD_DATE="1383862728" ICON="">Keane - Higher Than The Sun</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=RBumgq5yVrA" ADD_DATE="1384024106" ICON="">Passenger - Let Her Go [Official Video]</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=g--Vlij1X1Y" ADD_DATE="1384024136" ICON="">The Beatles-We Can Work It Out</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=jJOzdLwvTHA" ADD_DATE="1384027324" ICON="">INGRID MICHAELSON - "The Way I Am" - (official music video)</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=sy3lJIxyZ60" ADD_DATE="1384389889" ICON="">Bon Iver - Blindsided</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=PPtSKimbjOU" ADD_DATE="1384543307" ICON="">AWOLNATION - Sail (Official)</A>
+            <DT><A HREF="https://itunes.apple.com/us/album/leaving-on-jet-plane-voice/id755519231" ADD_DATE="1385247882" ICON="">iTunes - Music - Leaving On a Jet Plane (The Voice Performance) - Single by Caroline Pennell</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=QkL61Ijhp98#t=0" ADD_DATE="1385252190" ICON="">The Top 10: "Say It, Just Say It" - The Voice Highlight</A>
+            <DT><A HREF="http://letras.mus.br/lana-del-rey/1999476/" ADD_DATE="1385252917" ICON="">SUMMERTIME SADNESS - Lana Del Rey | Letras.mus.br</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=X4YK-DEkvcw" ADD_DATE="1385260323" ICON="">The Killers - Shot At The Night - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=IcrbM1l_BoI" ADD_DATE="1385261033" ICON="">Avicii - Wake Me Up (Official Video) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=HJMapA8WgYw" ADD_DATE="1386291290" ICON="">Pop Danthology 2013 - Mashup of 68 songs! - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?annotation_id=annotation_477284685&feature=iv&src_vid=HJMapA8WgYw&v=If5MF4wm1T8" ADD_DATE="1386291502" ICON="">▶ Pop Danthology 2012 - Mashup of 50+ Pop Songs - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=YxIiPLVR6NA" ADD_DATE="1386385192" ICON="">▶ Avicii - Hey Brother (Lyric)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=zOv7hikXGtc" ADD_DATE="1386728609" ICON="">▶ LYRICS - DJ Earworm Mashup - United State of Pop 2013 (Living the Fantasy)</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/The_Voice_(5%C2%AA_temporada)" ADD_DATE="1387770938" ICON="">The Voice (5ª temporada) – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=waGkmPv_NSo&feature=youtu.be" ADD_DATE="1388715332" ICON="">▶ Rihanna - Drunk On Love (Audio)</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=IxxstCcJlsc#t=74" ADD_DATE="1388863435" ICON="">▶ Zedd - Clarity (Official Video) ft. Foxes - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=DtUJ8PSEty8" ADD_DATE="1389030611" ICON="">Tiago Iorc & DeepLick - Sorte</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=oS6wfWu0JvA#t=69" ADD_DATE="1389485653" ICON="">▶ Lykke Li - I Follow Rivers (The Magician Remix)</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=b7SA1kRQko0" ADD_DATE="1390083670" ICON="">Fatboy Slim and Riva Starr Featuring Beardyman "Eat Sleep Rave Repeat" (Calvin Harris Remix)</A>
+            <DT><A HREF="http://letras.mus.br/sara-bareilles/brave/" ADD_DATE="1390795760" ICON="">BRAVE - Sara Bareilles | Letras.mus.br</A>
+            <DT><A HREF="http://www.infinitelooper.com/?v=X3OiWyhgU9U&p=n#/7;91" ADD_DATE="1390968295" ICON="">InfiniteLooper - How I Met Your Mother - La Vie En Rose</A>
+            <DT><A HREF="http://trilhadosfilmes.blogspot.com.br/2012/10/2012-perks-of-being-wallflower-trilha.html" ADD_DATE="1392132902" ICON="">Trilha Dos Filmes: (2012) Perks of Being a Wallflower, The - Trilha Sonora</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=MqhxIQD16EA" ADD_DATE="1392252060" ICON="">Elisa - "L'Anima Vola" - (official video - 2013) - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/michael-buble/quando-quando-quando.html" ADD_DATE="1392252214" ICON="">3:03 · Quando, Quando, Quando - Michael Bublé</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=Weqevwm0EBQ" ADD_DATE="1392333018" ICON="">DAFT BEATLES - Eleanoround the World - the original DAFT PUNK VS. THE BEATLES mash up - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/the-beatles/202/" ADD_DATE="1392333080" ICON="">01:42 · The Beatles - Eleanor Rigby</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=WF8dt1hpZ9M#t=58" ADD_DATE="1393160606" ICON="">Miami Horror - Holidays (official HD) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=KVYup3Qwh8Q" ADD_DATE="1393213369" ICON="">Cage The Elephant - Come A Little Closer (Official Video) - YouTube</A>
+            <DT><A HREF="http://itunesmedia.info/" ADD_DATE="1393823515" ICON="">iTunes Media</A>
+            <DT><A HREF="http://24hoursofhappy.com/" ADD_DATE="1393826376" ICON="">Pharrell Williams - Happy</A>
+            <DT><A HREF="https://www.facebook.com/notes/coldplay-hill/downloads-discografia-shows-e-outras-coisas/444411598927480" ADD_DATE="1393882409" ICON="">Downloads (discografia, shows e outras coisas)</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=Nj8r3qmOoZ8" ADD_DATE="1393997323" ICON="">Arctic Monkeys - Arabella (Official Video) - YouTube</A>
+            <DT><A HREF="http://www.mediafire.com/listen/dewnnuruf4r931p/Linkin+Park+-+Guilty+All+The+Same.mp3" ADD_DATE="1394092374" ICON="">Linkin Park - Guilty All The Same</A>
+            <DT><A HREF="http://letras.mus.br/american-authors/best-day-of-my-life/#tops" ADD_DATE="1394397277" ICON="">00:41 · American Authors - Best Day Of My Life</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=tBsRvthVhdw" ADD_DATE="1394525165" ICON="">Phoenix - Entertainment (Official Video) - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=KAbPx_-IJBI" ADD_DATE="1394686905" ICON="">Franz Ferdinand - Fresh Strawberries (Official Video) - YouTube</A>
+            <DT><A HREF="http://letras.mus.br/creed/9093/traducao.html" ADD_DATE="1395281996" ICON="">My Sacrifice - Creed | Letras.mus.br</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=aCU7o9sNy6E" ADD_DATE="1395452600" ICON="">Bastille - Pompeii (Live At Capitol Studios) - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=nigF1ulBCQE" ADD_DATE="1395942775" ICON="">Pearl Jam - Future Days - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=vbZGtzC_yZo" ADD_DATE="1396055338" ICON="">Imagine Dragons - 30 Lives (Lyrics on Screen) HD - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=i96WR8dl_qs" ADD_DATE="1396834726" ICON="">A banda Mais Bonita da Cidade - "Boa Pessoa" // Joy Weekend #10 - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=ebXbLfLACGM" ADD_DATE="1396915299" ICON="">Calvin Harris - Summer - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/news/2014/04/15/john-mayer-apresenta-cover-de-xo-de-beyonce.html" ADD_DATE="1397589531" ICON="">John Mayer apresenta cover de "XO", de Beyoncé - Vagalume</A>
+            <DT><A HREF="https://soundcloud.com/vikientran3" ADD_DATE="1398812612" ICON="">buckin-love’s stream on SoundCloud - Hear the world’s sounds</A>
+            <DT><A HREF="https://soundcloud.com/clubcoldplayer2" ADD_DATE="1398812618" ICON="">Club Coldplayer 2’s stream on SoundCloud - Hear the world’s sounds</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=YtD4FaboM7I#t=96" ADD_DATE="1399003523" ICON="">I Write Sins Not Sex Yeah - Marina and the Diamonds & Panic! At the Disco Mashup - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/coldplay/your-love-means-everything-traducao.html" ADD_DATE="1399781872" ICON="">▶ 1:28 · Your love means everything - Coldplay</A>
+            <DT><A HREF="http://letras.mus.br/one-republic/1096364/traducao.html" ADD_DATE="1402012259" ICON="">All We Are - OneRepublic | Letras.mus.br</A>
+            <DT><A HREF="http://www.youtube.com/channel/UC7qYeHNCakqv5hT3UhGJMqg/videos" ADD_DATE="1402630576" ICON="">YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=uunVYT9tBas&list=PLBe1KgHbrNNyhTYlIwYjONomMSEmmIweU&index=3&src_vid=rOBbtVpzNEU&feature=iv&annotation_id=annotation_1440152473" ADD_DATE="1402631101" ICON="">Silence - Michael Schulte (Official Video) - YouTube</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=rOBbtVpzNEU" ADD_DATE="1402631328" ICON="">Coldplay - A Sky Full Of Stars (acoustic cover) - YouTube</A>
+            <DT><A HREF="http://vivacoldplay.com/2014/06/coldplay-na-trilha-sonora-de-wish-i-was-here/" ADD_DATE="1403063739" ICON="">Coldplay na trilha sonora de ‘Wish I Was Here’ | Viva Coldplay | Brasil</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=R7-DjDF1MRM" ADD_DATE="1404872836" ICON="">The Shins - So Now What (Audio) - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=A2CbQpo-8CE" ADD_DATE="1404872971" ICON="">Bon Iver - Heavenly Father - YouTube</A>
+            <DT><A HREF="http://www.vagalume.com.br/news/2014/07/11/veja-o-clipe-de-scarecrow-novidade-de-alex-sierra.html" ADD_DATE="1405145244" ICON="">"Scarecrow", Alex & Sierra - Vagalume</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=XpZ8hhAFym0&list=PL236E4D2AB6772E30" ADD_DATE="1405383105" ICON="">Michele Bravi - La vita e la felicità - YouTube</A>
+            <DT><A HREF="http://musica.com.br/artistas/the-rocket-summer/m/hold-it-up/letra.html" ADD_DATE="1405385965" ICON="">Hold It Up - The Rocket Summer - Letra | Musica.com.br</A>
+            <DT><A HREF="http://bitbeatbitebright.bandcamp.com/album/black-brown-blue-beige" ADD_DATE="1405724977" ICON="">Black Brown Blue Beige | Bit Beat Bite Bright</A>
+            <DT><A HREF="http://www.lastfm.com.br/music/Daughter?source=home-artist-recommendations" ADD_DATE="1406093192" ICON="">Daughter – Músicas gratuitas, vídeos, shows, estatísticas e fotos na Last.fm</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=FVCqY2yPYO0" ADD_DATE="1406174060" ICON="">A Banda mais bonita da cidade- Se Eu Corro - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=olbbAuQUZd4" ADD_DATE="1406174152" ICON="">Eu Me Lembro - Clarice Falcão feat. Silva - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=k3qgrSon4To#t=97" ADD_DATE="1406175474" ICON="">The Strokes - What Ever Happened? (Marie Antoinette) - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=LsZHhzmY3zE#t=96" ADD_DATE="1406176843" ICON="">Ida Maria - Last Dance - YouTube</A>
+            <DT><A HREF="https://soundcloud.com/octobersveryown/drake-hold-on-were-going-home?fb_action_ids=10151755147942198&fb_action_types=og.likes&fb_source=other_multiline&action_object_map=%5B428869180559899%5D&action_type_map=%5B%22og.likes%22%5D&action_ref_map=%5B%5D&fb_collection_id=10151187543611799&ref=profile" ADD_DATE="1407186249" ICON="">Drake ~ Hold On, We're Going Home feat. Majid Jordan by octobersveryown</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=AF0FMlPU8VI" ADD_DATE="1407289959" ICON="">200 Músicas no piano - Guia de identificação de Músicas - YouTube</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=utVyZaEapz0" ADD_DATE="1411268426" ICON="">Mika - Stardust (Feat. Chiara) (Songbook, Vol.1) - YouTube</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1407979129" LAST_MODIFIED="1417473088">English</H3>
+        <DL><p>
+            <DT><A HREF="http://www.goodlucktoefl.com/" ADD_DATE="1333245235" ICON="">Good Luck TOEFL - Tips, Advice, and Guides to taking the TOEFL iBT Exam</A>
+            <DT><A HREF="http://www.teclasap.com.br/blog/#axzz1lQC2t8UB" ADD_DATE="1346646857" ICON="">SAP</A>
+            <DT><A HREF="http://www.amazon.com/Official-Guide-TOEFL-CD-ROM-Edition/dp/0071766588/ref=dp_ob_title_bk" ADD_DATE="1341350569" ICON="">Amazon.com: Official Guide to the TOEFL Test With CD-ROM, 4th Edition (Official Guide to the Toefl Ibt) (9780071766586): Educational Testing Service: Books</A>
+            <DT><A HREF="http://www.lyricstraining.com/" ADD_DATE="1334450937" ICON="">LT</A>
+            <DT><A HREF="http://www.thepoke.co.uk/2011/12/23/english-pronunciation/" ADD_DATE="1344313385" ICON="">English Pronunciation | The Poke:</A>
+            <DT><A HREF="http://brazucasnomundo.com.br/canada/" ADD_DATE="1345521477" ICON="">Brazucas no Canadá</A>
+            <DT><A HREF="http://www.eslpod.com/website/index_new.html" ADD_DATE="1345741707" ICON="">English as a Second Language Podcast</A>
+            <DT><A HREF="http://oitoronto.com.br/17814/o-jeitinho-brasileiro-no-canada/" ADD_DATE="1407979129" ICON="">O jeitinho brasileiro no Canadá - OiToronto</A>
+            <DT><A HREF="http://www.easyenglish.ca/english/school/Model_test_structure.htm" ADD_DATE="1370754471" ICON="">Model Test of TOEFL structure</A>
+            <DT><A HREF="https://www.ets.org/toefl_itp/content/sample_questions" ADD_DATE="1374785234" ICON="">TOEFL ITP Assessments: Sample Test Questions</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=RIKBkohIDj4" ADD_DATE="1374786615" ICON="">Toefl ITP/PBT Listening, Short Conversations 2 - YouTube</A>
+            <DT><A HREF="http://www.mobimas.info/2011/07/collection-of-32-toefl-pbt-tests-with.html" ADD_DATE="1374787316" ICON="">Collection of 32 TOEFL ITP Tests with audio-keys and answer-scripts [mediafire.com] ~ YOUR HOW TO</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1407979129" LAST_MODIFIED="1417473088">+</H3>
+        <DL><p>
+            <DT><A HREF="http://oauth.withings.com/partner/add?new=1" ADD_DATE="1411017207" ICON="">Withings - Partners</A>
+            <DT><A HREF="http://m.ebay.com/itm?itemId=310664217428" ADD_DATE="1406457799" ICON="">✔ King Magnetic Fish Eye Lens Wide Angle Micro Lens for iPhone 5 5g 4S 4 4G DC126 | eBay</A>
+            <DT><A HREF="http://setup.loopinfinito.com.br/zeno-rocha/" ADD_DATE="1389716027" ICON="">zeno rocha @ Setup #07</A>
+            <DT><A HREF="http://torrentz.eu/" ADD_DATE="1333250835" ICON="">Torrent Search Engine</A>
+            <DT><A HREF="http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=1c5e550a-889b-e011-969d-0030487d8897&vsro=8" ADD_DATE="1334446630" ICON="">DreamSpark Premium CTPS</A>
+            <DT><A HREF="http://www.coldplaying.com/" ADD_DATE="1337310138" ICON="">COLDPLAY :: COLDPLAYING.COM</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=1Rl1TJG17Wk" ADD_DATE="1339343413" ICON="">'Project X' Trailer HD - YouTube</A>
+            <DT><A HREF="http://cybercook.terra.com.br/cocada-de-leite-condensado-na-comunidade.html?codigo=6677" ADD_DATE="1341429252" ICON="">Cocada de Leite Condensado - Receita indicada por isabel de cassia silva</A>
+            <DT><A HREF="https://my.avast.com/devices" ADD_DATE="1345675502" ICON="">avast! Account</A>
+            <DT><A HREF="http://www.hypeness.com.br/2012/07/veja-o-que-acontece-quando-colocamos-uma-cerveja-no-microondas/" ADD_DATE="1343356914" ICON="">Veja o que acontece quando colocamos coisas erradas no microondas</A>
+            <DT><A HREF="http://www.zergnet.com/news/26609/12-now-famous-people-you-didnt-know-were-in-movies-youve-seen" ADD_DATE="1344032069" ICON="">12 Now Famous People You Didn't Know Were in Movies You've Seen - ZergNet</A>
+            <DT><A HREF="http://ejohn.org/blog/introducing-khan-cs/" ADD_DATE="1345067965" ICON="">John Resig - Redefining the Introduction to Computer Science</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=MXJ_sZ0B9PM&feature=player_embedded" ADD_DATE="1345304207" ICON="">Milkshake de Ovomaltine do Bob's - YouTube</A>
+            <DT><A HREF="http://quebralink.algoritmizando.com/" ADD_DATE="1346646857" ICON="">Quebra Link - Ferramentas para Inverter e decodificar Links</A>
+            <DT><A HREF="http://www.englishexperts.com.br/2012/04/09/5-principios-para-aprender-ingles-com-musica/" ADD_DATE="1346646857" ICON="">Inglês com Música</A>
+            <DT><A HREF="http://www.apaixonadosporseries.com.br/" ADD_DATE="1346646857" ICON="">Apaixonados por Séries</A>
+            <DT><A HREF="http://www.voluntarios.com.br/" ADD_DATE="1407979129" ICON="">Campanha Seja um Voluntário - Voluntariado</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=mzqrneWTLo4" ADD_DATE="1407979129" ICON="">Ana Maria Brogui #16 - Como fazer Cookies - YouTube</A>
+            <DT><A HREF="http://www.receitinhas.com.br/receita/5959/pave-de-morango-da-lea" ADD_DATE="1356374292" ICON="">Receita de Pavê de Morango da Léa | Receitas de Doces e Sobremesas</A>
+            <DT><A HREF="http://webcache.googleusercontent.com/search?q=cache:JhqINI9KRiYJ:www.bdjogos.com/linguagens.php%3Fid%3D3+&cd=3&hl=pt-BR&ct=clnk&gl=br" ADD_DATE="1357739212" ICON="">webcache.googleusercontent.com/search?q=cache:JhqINI9KRiYJ:www.bdjogos.com/linguagens.php%3Fid%3D3+&cd=3&hl=pt-BR&ct=clnk&gl=br</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=5zjsj7g32OA" ADD_DATE="1358468438" ICON="">Como fazer um ventilador USB - YouTube</A>
+            <DT><A HREF="http://vimeo.com/5775736" ADD_DATE="1358823560" ICON="">Tutorial Sony Vegas - Texto Dinâmico |HD| on Vimeo</A>
+            <DT><A HREF="http://www.youtube.com/watch?annotation_id=annotation_698502&feature=iv&src_vid=RWQ4lOUsTCQ&v=aZ_fWGJ1BsI" ADD_DATE="1358824441" ICON="">Sony Vegas - Animar Texto Aplicado |Tutoriais Rápidos| - YouTube</A>
+            <DT><A HREF="http://es.wikipedia.org/wiki/Funci%C3%B3n_%CF%86_de_Euler" ADD_DATE="1359075204" ICON="">Función φ de Euler - Trab6 MD</A>
+            <DT><A HREF="http://es.wikipedia.org/wiki/N%C3%BAmeros_primos_entre_s%C3%AD" ADD_DATE="1359075229" ICON="">Números primos entre sí - trab3 md</A>
+            <DT><A HREF="http://www.hardware.com.br/dicas/dual-boot-sem-grub.html" ADD_DATE="1359590646" ICON="">Dual boot de Windows 7 e Vista com Linux sem usar o GRUB - Dicas</A>
+            <DT><A HREF="https://play.google.com/store/apps/details?id=com.concentriclivers.mms.com.android.mms&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5jb25jZW50cmljbGl2ZXJzLm1tcy5jb20uYW5kcm9pZC5tbXMiXQ" ADD_DATE="1360974326" ICON="">Android 4.1 JB Messaging SMS - Aplicativos para Android no Google Play</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=pUFjy7TIW4g" ADD_DATE="1361469638" ICON="">Configurar TP-LINK TL-WR841ND como repetidor (WDS) - YouTube</A>
+            <DT><A HREF="http://mixidao.com.br/" ADD_DATE="1362535617" ICON="">Mixidão | Quer que desenhe?Mixidão | Quer que desenhe?</A>
+            <DT><A HREF="http://www.movie2k.to/" ADD_DATE="1363565224" ICON="">movie2k.to | Watch movies online</A>
+            <DT><A HREF="http://www.bestbuy.com/site/olspage.jsp?id=pcat17005&type=page" ADD_DATE="1357150171" ICON="">BestBuy.com - Cart</A>
+            <DT><A HREF="http://www.themediafire.com/torrent-definitivo-bau-de-desenhos-parte-01-02-03-dvdrip-dublado" ADD_DATE="1367550846" ICON="">[ TORRENT ] Definitivo Bau de Desenhos – Parte 01 | 02 | 03 DVDRip Dublado | @TheMediaFire</A>
+            <DT><A HREF="http://www.inkdryercreative.com/daily/archive/" ADD_DATE="1367885590" ICON="">Inkdryer Creative. Daily Wallpaper Archive.</A>
+            <DT><A HREF="http://proto.io/" ADD_DATE="1368749781" ICON="">Proto.io - Silly-fast mobile prototyping.</A>
+            <DT><A HREF="http://fiddleoak.wordpress.com/" ADD_DATE="1372908135" ICON="">fiddleoak</A>
+            <DT><A HREF="http://mashable.com/2013/07/12/the-pixar-theory/" ADD_DATE="1373684213" ICON="">The Pixar Theory: Every Character Lives in the Same Universe</A>
+            <DT><A HREF="http://www.justanswer.com/computer/6lml7-excessive-cpu-usage-blocking-access-websites-general.html" ADD_DATE="1374207142" ICON="">Excessive CPU usage blocking access to websites and general - JustAnswer</A>
+            <DT><A HREF="http://www.baixartorrent.net/2011/10/dexter-12345-e-6-temporada-hdtv720pdvd_17.html" ADD_DATE="1375334477" ICON="">Dexter 1ª,2ª,3ª,4ª,5ª,6ª,7ª e 8ª Temporada (HDTV/720p/DVD-R) + Especiais © Baixar Torrent</A>
+            <DT><A HREF="http://hbdia.com/top-x/3-quitutes-que-voce-pode-fazer-no-seu-microondas-em-poucos-minutos/" ADD_DATE="1376105577" ICON="">3 quitutes que você pode fazer no seu microondas, em poucos minutos! | Hoje é um Bom Dia</A>
+            <DT><A HREF="http://www.skoob.com.br/livro/180721-se-eu-soubesse-aos-20" ADD_DATE="1376792719" ICON="">SE EU SOUBESSE AOS 20... - Tina Seelig</A>
+            <DT><A HREF="http://www.brainstorm9.com.br/40337/entretenimento/breaking-bad-regras-televisao/?fb_action_ids=653959927948454&fb_action_types=og.likes&fb_source=aggregation&fb_aggregation_id=288381481237582" ADD_DATE="1378076955" ICON="">“Breaking Bad” e as novas regras da televisão » Brainstorm9</A>
+            <DT><A HREF="http://followshows.com/" ADD_DATE="1378174125" ICON="">Watch TV shows and know when your shows are next | followshows</A>
+            <DT><A HREF="http://lukeaddison.com/removing-linux-grub-restoring-windows-7-boot-gui/" ADD_DATE="1378244631" ICON="">Removing Linux Grub & Restoring Windows 7 Boot GUI | Luke Addison dot com</A>
+            <DT><A HREF="http://www.seututorial.com/2011/10/tutorial-como-remover-o-gbplugin-g.html" ADD_DATE="1378356192" ICON="">Tutorial: Como Remover o GbPlugin - G-Buster Browser Defense - SEU TUTORIAL</A>
+            <DT><A HREF="http://www.reddit.com/r/Dexter/comments/1lmt40/spoilerpossible_finale_leak_for_dexter_season_8/" ADD_DATE="1379892179" ICON="">[SPOILER]Possible Finale leak for Dexter Season 8. Read at your own risk (By far the most likely one floating around): Dexter</A>
+            <DT><A HREF="http://www.rainymood.com/" ADD_DATE="1380160952" ICON="">Rainy Mood</A>
+            <DT><A HREF="http://www.mundogump.com.br/uvb-76-misteriosa-radio-russa-so-transmite-numeros/" ADD_DATE="1380209895" ICON="">Mundo Gump UVB-76 - A verdade sobre a misteriosa rádio russa que só transmite números - Mundo Gump</A>
+            <DT><A HREF="http://www.pdfjoin.com/" ADD_DATE="1380512685" ICON="">PDFJoin! - Juntar PDF</A>
+            <DT><A HREF="http://alwayslands.blogspot.com.br/2010/01/teoria-do-caos-x-efeito-borboleta.html" ADD_DATE="1380895760" ICON="">-: Teoria do Caos x Efeito Borboleta</A>
+            <DT><A HREF="http://eusouandroid.com/" ADD_DATE="1381500844" ICON="">Eu Sou Android</A>
+            <DT><A HREF="http://www.awwwards.com/" ADD_DATE="1382493729" ICON="">Awwwards - Website Awards - Best Web Design Trends</A>
+            <DT><A HREF="http://www.mediafire.com/folder/15xgo8img8zl6/APKs" ADD_DATE="1383328937" ICON="">Apps SII Lite</A>
+            <DT><A HREF="http://eleganciadascoisas.wordpress.com/" ADD_DATE="1383528415" ICON="">a elegância das coisas</A>
+            <DT><A HREF="http://support.xbox.com/pt-BR/xbox-on-other-devices/kinect-for-windows/kinect-for-windows-setup" ADD_DATE="1385695020" ICON="">Kinect para Windows | Suporte do Kinect | Configuração - Xbox.com</A>
+            <DT><A HREF="https://support.google.com/websearch/answer/2842392" ADD_DATE="1386333848" ICON="">Voice Actions commands - Search Help</A>
+            <DT><A HREF="http://downloadlivro.com/" ADD_DATE="1387471200" ICON="">Download Livro</A>
+            <DT><A HREF="http://pt.slideshare.net/eribaldopereira1/criando-um-ebook-para-o-kindle" ADD_DATE="1387501508" ICON="">Criando um ebook para o kindle</A>
+            <DT><A HREF="http://tecnoblog.net/4400/sugarsync-backup-tutorial/" ADD_DATE="1387511826" ICON="">SugarSync: opção gratuita para backup online | Tecnoblog</A>
+            <DT><A HREF="http://500px.com/popular" ADD_DATE="1388278882" ICON="">500px / Popular Photos</A>
+            <DT><A HREF="http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2013/09/gta-v-como-instalar-o-jogo-em-um-pendrive-no-xbox-360-sem-hd.html" ADD_DATE="1388620198" ICON="">GTA V: como instalar o jogo em um pendrive no Xbox 360 sem HD - Dicas e Tutoriais - TechTudo</A>
+            <DT><A HREF="http://meialuaesoco.com.br/tutorial-como-usar-qualquer-hd-externo-no-seu-x-box-360/#.UsSsPtJDvNw" ADD_DATE="1388621047" ICON="">Tutorial: Como usar qualquer HD Externo no seu X-Box 360 | Meia Lua e Soco</A>
+            <DT><A HREF="http://www.seriesintorrent.com/2013/04/orphan-black-1-temporada-legendada.html" ADD_DATE="1388776343" ICON="">SÉRIES in TORRENT | Baixar | Download | Legendado | Dublado: ORPHAN BLACK: 1ª Temporada S01E10(1x10) Legendado</A>
+            <DT><A HREF="http://www.manualdomundo.com.br/" ADD_DATE="1388794702" ICON="">Manual do Mundo: dicas de sobrevivência em um mundo cruel</A>
+            <DT><A HREF="http://papelpop.com/2013/12/10-livros-para-levar-para-a-praia/" ADD_DATE="1388861071" ICON="">10 livros para levar para a praia</A>
+            <DT><A HREF="http://papelpop.com/2013/12/os-40-filmes-que-chegam-ao-brasil-em-2014-que-voce-nao-pode-perder/" ADD_DATE="1388864466" ICON="">Os 40 filmes que chegam ao Brasil em 2014 que você não pode perder!</A>
+            <DT><A HREF="http://www.tecmundo.com.br/netflix/42414-netflix-como-ver-os-filmes-do-catalogo-dos-eua-com-legendas.htm" ADD_DATE="1389151404" ICON="">Netflix: como ver os filmes do catálogo dos EUA com legendas</A>
+            <DT><A HREF="http://lelivros.info/" ADD_DATE="1389230503" ICON="">Le Livros - Livros em ePUB, MOBI e PDF - Livros para iPad, iPhone, Android, Kobo e Kindle</A>
+            <DT><A HREF="https://www.youtube.com/watch?v=E55rRK3bMpA" ADD_DATE="1389575343" ICON="">▶ Ana Maria Brogui #97 - Como fazer Pringles</A>
+            <DT><A HREF="http://www.macacovelho.com.br/12-formas-inteligentes-de-aproveitar-seus-utensilios-de-cozinha/" ADD_DATE="1389738902" ICON="">12 formas inteligentes de aproveitar seus utensílios de cozinha - Macaco Velho</A>
+            <DT><A HREF="http://www.gerenciandoblog.com.br/2012/07/email-gratis-dominio-windows-live.html" ADD_DATE="1389979108" ICON="">E-mail grátis em seu domínio no Windows Live - Gerenciando Blog</A>
+            <DT><A HREF="http://aquilesmaior.blogspot.com.br/2012/09/jquery-como-identificar-e-direcionar.html" ADD_DATE="1389981351" ICON="">Aquiles Maior / blog: jQuery - Como Identificar e Direcionar site para Celular ou Computador</A>
+            <DT><A HREF="http://stackoverflow.com/questions/107936/how-to-add-some-non-standard-font-to-a-website" ADD_DATE="1389981954" ICON="">html - How to add some non-standard font to a website? - Stack Overflow</A>
+            <DT><A HREF="http://www.videograbber.net/pt/" ADD_DATE="1390193044" ICON="">Baixe grátis vídeos do YouTube, MTV, Globo.com, sapo.pt, yahoo video</A>
+            <DT><A HREF="http://www.codeislove.net/2011/04/tutorial-how-to-code-classic-blogger.html" ADD_DATE="1390537021" ICON=""><CodeIsLove>: Tutorial: How to code a Classic Blogger layout - Part 1</A>
+            <DT><A HREF="http://wallbase.cc/" ADD_DATE="1391379980" ICON="">Computer wallpapers / Wallbase.cc</A>
+            <DT><A HREF="http://thepaperwall.com/" ADD_DATE="1391379986" ICON="">The Paper Wall</A>
+            <DT><A HREF="http://gweb.io/folders" ADD_DATE="1392439957" ICON="">gweb.io Redirecionamento Site</A>
+            <DT><A HREF="http://www.youtube.com/watch?v=aNNYNeb7lpI" ADD_DATE="1392441286" ICON="">Custom Domain On Google Drive Hosted Website [HD 1080p]</A>
+            <DT><A HREF="http://brasildroid.com.br/motorola-moto-x-duvidas-perguntas-problemas-pedidos-de-ajuda-etc/23865-trancado-rom-retail.html" ADD_DATE="1393340493" ICON="">[TRANCADO] ROM Retail! TIM MOTO X</A>
+            <DT><A HREF="http://developers.google.com/speed/pagespeed/insights/?url=oliveiram.com&tab=desktop" ADD_DATE="1393390669" ICON="">PageSpeed Insights Site oliveiram.com</A>
+            <DT><A HREF="http://www.htforum.com/vb/showthread.php/188437-Roteador-D-Link-DI-524-configura%C3%A7%C3%A3o-como-Ponto-de-Acesso" ADD_DATE="1393951226" ICON="">Roteador D-Link DI-524: configuração como Ponto de Acesso</A>
+            <DT><A HREF="http://doctorclown.net/fotos/" ADD_DATE="1394399157" ICON="">Fotos | Doctor Clown | Pop/Rock Cover | Itu/SP</A>
+            <DT><A HREF="http://tvshowsapp.com/" ADD_DATE="1394508607" ICON="">TVShows 2 - Download your TV shows automatically</A>
+            <DT><A HREF="http://www.oene.com.br/agradeca-ao-custo-brasil/" ADD_DATE="1395630398" ICON="">Agradeça ao Custo Brasil | Oene</A>
+            <DT><A HREF="http://www.oene.com.br/nao-se-ache-muito-melhor-porque-voce-ganha-vida-com-o-que-gosta/" ADD_DATE="1395630413" ICON="">Os problemas de seguir o mantra “ganhe a vida com o que você gosta” | Oene</A>
+            <DT><A HREF="http://www.cincopa.com/media-platform/blogger-widgets/photo-gallery-slideshow" ADD_DATE="1396285991" ICON="">exemplo layout</A>
+            <DT><A HREF="http://www.eonline.com/news/527052/read-this-and-you-may-hate-the-how-i-met-your-mother-and-lost-finales-a-little-less?cmpid=tweol-manual" ADD_DATE="1396453621" ICON="">How to Hate the How I Met Your Mother and Lost Finales Less | E! Online</A>
+            <DT><A HREF="http://shop.lenovo.com/SEUILibrary/controller/e/brweb/LenovoPortal/pt_BR/catalog.workflow:item.detail?hide_menu_area=true&GroupID=460&Code=888010238#overview" ADD_DATE="1397341033" ICON="">Adaptador de Energia AC 65W 20V para G460, G470, G480, Z460, Z470 | Lenovo | (BR)</A>
+            <DT><A HREF="http://www.brasileirosnouruguai.com.br/" ADD_DATE="1398571861" ICON="">Página Inicial | Brasileiros no Uruguai</A>
+            <DT><A HREF="http://www.esplendormontevideo.com/pt/" ADD_DATE="1398574357" ICON="">Esplendor Hotel Montevideo - Esplendor Hoteles</A>
+            <DT><A HREF="http://dicasdainternet.wordpress.com/2014/03/23/compartilhando-a-conexao-de-rede-cabeada-via-wi-fi-no-windows/" ADD_DATE="1398661716" ICON="">Compartilhando a conexão de rede cabeada via Wi-Fi no Windows | Dicas da Internet</A>
+            <DT><A HREF="https://docs.google.com/document/d/1NVmvFVtQDtiqRGcLxSLsonch-2uX-9SmJyij4OIJJ-8/edit" ADD_DATE="1398906365" ICON="">Criar um NAS com Ubuntu Server - Documentos Google</A>
+            <DT><A HREF="http://sickbeard.com/" ADD_DATE="1398918910" ICON="">Sick Beard - Internet PVR for your TV Shows</A>
+            <DT><A HREF="http://trakt.tv/" ADD_DATE="1399947880" ICON="">Track what you're watching. Discover new shows & movies. - trakt</A>
+            <DT><A HREF="http://vejasp.abril.com.br/calculadora-churrasco" ADD_DATE="1400281551" ICON="">Churrascômetro - Calcule as quantidades ideais de carne para o seu churrasco | VEJA SP</A>
+            <DT><A HREF="http://www.workstationsetups.com/" ADD_DATE="1401240467" ICON="">Workstation Setups |Workstation Setups</A>
+            <DT><A HREF="http://www.aboutads.info/choices/#completed" ADD_DATE="1402702863" ICON="">Opt Out From Online Behavioral Advertising By Participating Companies (BETA)</A>
+            <DT><A HREF="http://instantbutton.me/buttons/201406/parabens_dilma_20140617191451.html" ADD_DATE="1403058226" ICON="">Instant Button Generator - Parabéns Dilma</A>
+            <DT><A HREF="https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990" ADD_DATE="1403365991" ICON="">Punctuation Tips — Medium</A>
+            <DT><A HREF="http://regexcrossword.com/" ADD_DATE="1403566876" ICON="">Challenges | Regex Crossword</A>
+            <DT><A HREF="http://www.buzzfeed.com/daves4/35-sites-surpreendentemente-uteis-que-voce-nunca-s" ADD_DATE="1404001516" ICON="">35 sites surpreendentemente úteis dos quais você nunca soube que precisava</A>
+            <DT><A HREF="https://www.google.com/maps/views/view/streetview/brazils-painted-streets/rua-geraldo-alves-de-carvalho/FAQFVoPiEHmJjHGZIODy0Q?gl=br&hl=pt-br&utm_source=Google_GDN&utm_medium=Billboard_antesedepois&utm_campaign=Painted_Streets&heading=173&pitch=59&fovy=75" ADD_DATE="1404192498" ICON="">Rua Geraldo Alves de Carvalho - Ruas Coloridas do Brasil - Street View - Google Maps</A>
+            <DT><A HREF="http://www.dockingstationhq.com/" ADD_DATE="1404193825" ICON="">Android Docking stations - Find extensive docking station reviews, descriptions and a comparison chart to find the best android dock.</A>
+            <DT><A HREF="http://blog.refu.co/?p=1158" ADD_DATE="1404197389" ICON="">Reading .pdf files comfortably on Kindle | Intelligent rumblings</A>
+            <DT><A HREF="http://techchannel.radioshack.com/make-pdf-readable-kindle-2991.html" ADD_DATE="1404197392" ICON="">How to Make a PDF More Readable on the Kindle | Tech Channel - RadioShack</A>
+            <DT><A HREF="http://bellroy.com/wallets/note-sleeve-wallet#blue-steel" ADD_DATE="1405655575" ICON="">Note Sleeve Wallet - Wallets - Slim Leather Wallets by Bellroy</A>
+            <DT><A HREF="http://www.mobileswall.com/tag/abstract/" ADD_DATE="1405710126" ICON="">Abstract - Mobiles Wall</A>
+            <DT><A HREF="http://oqueemeuenosso.blogspot.com.br/2010/02/origami-como-fazer-um-pentagono-how-to.html" ADD_DATE="1405743440" ICON="">O QUE É MEU É NOSSO: Origami - Como Fazer um Pentágono - How to Make a Pentagon</A>
+            <DT><A HREF="http://akombihippie.blogspot.com.br/2013/11/meu-maior-medo.html" ADD_DATE="1406175421" ICON="">A Kombi Colorida: MEU MAIOR MEDO</A>
+            <DT><A HREF="http://www.buzzfeed.com/richardhjames/estes-sao-os-43-gifs-mais-engracados-de-todos-os-t" ADD_DATE="1406445595" ICON="">Serão estes os 43 gifs mais engraçados de todos os tempos</A>
+            <DT><A HREF="https://gweb.io/#/domains" ADD_DATE="1407383260" ICON="">gweb.io dominio google drive</A>
+            <DT><A HREF="http://support.apple.com/kb/ht1343" ADD_DATE="1407981080" ICON="">OS X: Keyboard shortcuts</A>
+            <DT><A HREF="http://orangotag.com/" ADD_DATE="1334450786" ICON="">Orangotag</A>
+            <DT><A HREF="http://bancodeseries.com.br/" ADD_DATE="1355528793" ICON="">Banco de Séries</A>
+            <DT><A HREF="http://filmow.com/" ADD_DATE="1334450843" ICON="">Filmow</A>
+            <DT><A HREF="http://torrent-serie.blogspot.com.br/" ADD_DATE="1390595339" ICON="">ST</A>
+            <DT><A HREF="http://www.seriesintorrent.com/" ADD_DATE="1390595514" ICON="">SinT</A>
+            <DT><A HREF="http://www.urbes.com.br/" ADD_DATE="1334450877" ICON="">Urbes</A>
+            <DT><A HREF="http://www.moodle.ufscar.br/" ADD_DATE="1334615140" ICON="">Moodle</A>
+            <DT><A HREF="http://www.sorocaba.ufscar.br/ufscar/" ADD_DATE="1378423323" ICON="">UFSCar</A>
+            <DT><A HREF="http://www.macacovelho.com.br/pegadinha-mais-cruel-da-historia/" ADD_DATE="1410505890" ICON="">A pegadinha mais cruel da história - Macaco Velho - Macaco Velho</A>
+            <DT><A HREF="https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12" ADD_DATE="1410583832" ICON="">Mac App Store - BetterSnapTool</A>
+            <DT><A HREF="http://h-alza3ab.tumblr.com/" ADD_DATE="1410931645" ICON="">Bro!!!</A>
+            <DT><A HREF="https://catracalivre.com.br/geral/roteiro-viagem/indicacao/o-que-tem-de-melhor-e-mais-barato-no-litoral-sul-de-sp-alem-das-praias/" ADD_DATE="1410979337" ICON="">Quatro roteiros ecológicos no litoral sul de São Paulo | Catraca Livre</A>
+            <DT><A HREF="https://catracalivre.com.br/viagem/mundo-viagem/indicacao/seis-destinos-para-aproveitar-o-fim-do-verao-europeu/" ADD_DATE="1410981302" ICON="">Seis destinos para aproveitar o fim do verão europeu | Catraca Livre</A>
+            <DT><A HREF="http://androidwallpape.rs/" ADD_DATE="1412302654" ICON="">androidwallpape.rs</A>
+            <DT><A HREF="http://www.alfredapp.com/" ADD_DATE="1414619860" ICON="">Alfred App - Productivity App for Mac OS X</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1396456400" LAST_MODIFIED="1417473088">WEB-BD-ES</H3>
+        <DL><p>
+            <DT><A HREF="http://tableless.com.br/utilizando-icones-formato-font/" ADD_DATE="1400712651" ICON="">Font icons – Utilizando ícones em formato de font | Tableless</A>
+            <DT><A HREF="http://tableless.com.br/aplicacao-das-tags-de-marcacao-de-autor-html/" ADD_DATE="1398912173" ICON="">Aplicação da Metatag de Autor no HTML | Tableless</A>
+            <DT><A HREF="http://tableless.com.br/design-responsivo-na-pratica-2-layout-ao-html/" ADD_DATE="1398889897" ICON="">Design Responsivo na prática 2: do layout ao HTML | Tableless</A>
+            <DT><A HREF="http://css-tricks.com/centering-in-the-unknown/" ADD_DATE="1397762611" ICON="">Centering in the Unknown | CSS-Tricks</A>
+            <DT><A HREF="http://w3layouts.com/demos/voyage/web/index.html" ADD_DATE="1396456370" ICON="">**aproveitar a busca**</A>
+            <DT><A HREF="http://www.webdesignrazzi.com/2014/free-css3-html5-templates/" ADD_DATE="1396456541" ICON="">**escolher aqui**</A>
+            <DT><A HREF="http://w3layouts.com/demos/webworld_v2/web/" ADD_DATE="1396456550" ICON="">**escolhido**</A>
+            <DT><A HREF="http://www.html5xcss3.com/2013/05/legend-responsive-html5-theme.html" ADD_DATE="1396460788" ICON="">Legend Responsive Html5 Templates | Themes</A>
+            <DT><A HREF="http://www.html5xcss3.com/2013/12/euclid-responsive-html5-theme.html" ADD_DATE="1396466516" ICON="">Euclid Free Responsive Html5 Themes | Templates</A>
+            <DT><A HREF="http://demo.html5xcss3.com/demo.php?cat=html5themes&host=html5up&temp=tessellate" ADD_DATE="1396466590" ICON="">Demo Free Html5 and Css3 Templates | Html5xcss3.com</A>
+            <DT><A HREF="http://demo.html5xcss3.com/demo.php?cat=html5themes&host=html5up&temp=prologue" ADD_DATE="1396466945" ICON="">Demo Free Html5 and Css3 Templates | Html5xcss3.com</A>
+            <DT><A HREF="http://w3layouts.com/resume-singlepage-flat-responsive-web-template" ADD_DATE="1396468271" ICON="">Resume a SinglePage Flat Responsive web template by w3layouts</A>
+            <DT><A HREF="http://pt.wikipedia.org/wiki/Lista_de_desportos_ol%C3%ADmpicos" ADD_DATE="1397667998" ICON="">Anexo:Lista de desportos olímpicos – Wikipédia, a enciclopédia livre</A>
+            <DT><A HREF="http://adam.co/lab/jquery/customselect/" ADD_DATE="1398402696" ICON="">jQuery Custom Select Box Plugin - jQuery.customSelect()</A>
+            <DT><A HREF="http://gregfranko.com/jquery.selectBoxIt.js/" ADD_DATE="1398403060" ICON="">SelectBoxIt by Greg Franko</A>
+            <DT><A HREF="http://htmldog.com/guides/html/" ADD_DATE="1399047030" ICON="">HTML Tutorials | HTML Dog</A>
+            <DT><A HREF="http://stackoverflow.com/questions/10984614/adding-values-to-jquery-autocomplete-real-time" ADD_DATE="1399664959" ICON="">Adding values to jQuery autocomplete real time - Stack Overflow</A>
+            <DT><A HREF="http://loopj.com/jquery-tokeninput/demo.html" ADD_DATE="1399665641" ICON="">loopj.com/jquery-tokeninput/demo.html</A>
+            <DT><A HREF="http://loopj.com/jquery-tokeninput/" ADD_DATE="1399665898" ICON="">jQuery Tokeninput</A>
+            <DT><A HREF="http://www.jqueryrain.com/2012/03/35-best-ajax-jquery-autocomplete-tutorial-plugin-with-examples/" ADD_DATE="1399666860" ICON="">35+ Best Ajax jQuery Autocomplete Tutorial & Plugin with Examples</A>
+            <DT><A HREF="http://textextjs.com/manual/examples.html" ADD_DATE="1399667377" ICON="">jQuery TextExt Plugin - Examples</A>
+            <DT><A HREF="http://sbfaulkner.github.io/jquery.token-field/demo.html" ADD_DATE="1399667812" ICON="">jquery.token-field demo</A>
+            <DT><A HREF="http://stackoverflow.com/questions/18744977/jquery-tokeninput-add-non-valid-token-by" ADD_DATE="1399667926" ICON="">jquery-tokeninput add non valid token by ; - Stack Overflow</A>
+            <DT><A HREF="http://documentcloud.github.io/visualsearch/#css" ADD_DATE="1400514352" ICON="">DocumentCloud's VisualSearch.js</A>
+            <DT><A HREF="https://rawgit.com/hirokiosame/search.js/master/index.html" ADD_DATE="1400516625" ICON="">Search.js</A>
+            <DT><A HREF="http://tutorialzine.com/2010/09/google-powered-site-search-ajax-jquery/" ADD_DATE="1401407193" ICON="">Google Powered Site Search with jQuery | Tutorialzine</A>
+            <DT><A HREF="http://getbootstrap.com/javascript/" ADD_DATE="1401408284" ICON="">JavaScript · Bootstrap</A>
+            <DT><A HREF="http://jsfiddle.net/DerekL/RWCJR/" ADD_DATE="1401410021" ICON="">HTML5 Siri - JSFiddle</A>
+            <DT><A HREF="http://blog.teamtreehouse.com/accepting-speech-input-html5-forms" ADD_DATE="1401410940" ICON="">Accepting Speech Input in HTML5 Forms | Treehouse Blog</A>
+            <DT><A HREF="http://www.designedbyaturtle.co.uk/2012/html5-webkit-speech-input/" ADD_DATE="1401411118" ICON="">HTML5 WebKit Speech Input | Designed by a Turtle</A>
+            <DT><A HREF="http://stackoverflow.com/questions/22301142/google-plus-type-cards-layout-in-html" ADD_DATE="1401417207" ICON="">html5 - Google Plus type cards layout in HTML - Stack Overflow</A>
+            <DT><A HREF="http://bootstrapzero.com/bootstrap-template/google-plus" ADD_DATE="1401418020" ICON="">Bootstrap google plus template</A>
+            <DT><A HREF="http://theopentutorials.com/examples/java-ee/jsp/pagination-in-servlet-and-jsp/" ADD_DATE="1401428983" ICON="">Pagination in Servlet and JSP » the Open Tutorials</A>
+            <DT><A HREF="http://www.sitepoint.com/introducing-web-speech-api/" ADD_DATE="1401493327" ICON="">Introducing the Web Speech API - SitePoint</A>
+            <DT><A HREF="http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API" ADD_DATE="1401496252" ICON="">Voice Driven Web Apps: Introduction to the Web Speech API - HTML5Rocks Updates</A>
+            <DT><A HREF="http://viverdeblog.com/psicologia-das-cores/" ADD_DATE="1401593533" ICON="">A Psicologia das Cores no Marketing e no Dia-a-Dia</A>
+            <DT><A HREF="http://www.guj.com.br/java/286230--resolvido-varios-select-em-um-executequery" ADD_DATE="1401726478" ICON="">[ RESOLVIDO ]Varios select em um executeQuery</A>
+            <DT><A HREF="http://onetarek.com/javascript-and-jquery/how-to-add-or-remove-a-class-using-raw-javascript-and-jquery/" ADD_DATE="1401984859" ICON="">How To Add or Remove a Class From an Elemtnet Using Raw JavaScript or jQuery | oneTarek</A>
+            <DT><A HREF="http://stackoverflow.com/questions/2155737/remove-css-class-from-element-with-javascript-no-jquery" ADD_DATE="1401984869" ICON="">html - Remove CSS class from element with JavaScript (no jQuery) - Stack Overflow</A>
+            <DT><A HREF="http://css-tricks.com/scrollfollow-sidebar/" ADD_DATE="1402027898" ICON="">Scroll/Follow Sidebar, Multiple Techniques | CSS-Tricks</A>
+            <DT><A HREF="http://fortawesome.github.io/Font-Awesome/icons/" ADD_DATE="1402197207" ICON="">Font Awesome Icons</A>
+            <DT><A HREF="http://bootsnipp.com/forms" ADD_DATE="1414728598" ICON="">Bootstrap form builder HTML | Bootsnipp.com</A>
+        </DL><p>
+    </DL><p>
+</DL><p>
