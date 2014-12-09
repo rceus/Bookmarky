@@ -11,9 +11,6 @@ Tools used: Google Charts, JS, D3, HTML/CSS
 #Instructions
 
 Import bookmarks from Chromeand paste the html files in the Bookmarks folder. More data, more results. 
-
 Deploy a server and open the application. 
-
 Run it with your own Bookmarks file. 
-
 Enjoy the suggestions. 
